@@ -35,7 +35,7 @@ menu:
       weight: 5
       url: "https://github.com/imfing/hextra-starter-template"
       params:
-        icon: github
+        icon: linkedin
     - name: Twitter
       weight: 6
       url: "https://twitter.com/alicemsener"
