@@ -38,9 +38,9 @@ menu:
         icon: github
     - name: Twitter
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://twitter.com/alicemsener"
       params:
-        icon: x-twitter
+        icon: mail
 
 params:
   navbar:
