@@ -18,13 +18,13 @@ markup:
 
 menu:
   main:
-    - name: Bilgiler
+    - name: Docs
       pageRef: /docs
       weight: 1
-    - name: Hakkımda
+    - name: About
       pageRef: /about
       weight: 2
-    - name: İletişim ↗
+    - name: Contact ↗
       url: "https://github.com/imfing"
       weight: 3
     - name: Ara
