@@ -21,23 +21,27 @@ menu:
     - name: Docs
       pageRef: /docs
       weight: 1
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 2
+      weight: 3
     - name: Contact ↗
       url: "https://github.com/imfing"
-      weight: 3
-    - name: Ara
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/imfing/hextra-starter-template"
       params:
         icon: linkedin
     - name: Twitter
-      weight: 6
+      weight: 7
       url: "https://twitter.com/alicemsener"
       params:
         icon: mail
