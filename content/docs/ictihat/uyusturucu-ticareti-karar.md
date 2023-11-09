@@ -18,11 +18,15 @@ Adana 9. Ağır Ceza Mahkemesi tarafından verilen kararda, uyuşturucu madde ti
 - Ceza Muhakemesi Kanunu (CMK) Madde 2, 90, 116, 119, 161.
 - Polis Vazife ve Salahiyet Kanunu (PVSK) Ek Madde 6.
 
-Karar, sanıkların ve aracın durumuna ilişkin detaylı incelemeler ve delillerin yasalara uygun toplanıp toplanmadığı hususları titizlikle değerlendirilerek verilmiştir. Mahkeme, arama işleminin hukuka uygunluğunu esas alarak beraat kararı vermiştir.
+Mahkeme, arama işleminin hukuka uygunluğunu esas alarak beraat kararı vermiştir.
 
 Bu özet, yukarıda adı geçen mahkeme kararının genel bir özetini içermekte ve hukuka uygunluk analizini temel almaktadır. Detaylı bilgi ve içtihat metni için lütfen tam karar metnini inceleyiniz.
 
 ---
+
+# 10. Ceza Dairesi
+
+**2021/108 E., 2022/10856 K.**
 
 # İçtihat Metni
 
