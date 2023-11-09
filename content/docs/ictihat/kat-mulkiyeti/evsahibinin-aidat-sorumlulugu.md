@@ -20,8 +20,6 @@ Mahkeme, Kat Mülkiyeti Kanunu'nun ilgili maddeleri uyarınca kat maliklerinin v
 
 Bu özet, kararın ve içtihat metninin ana hatlarını içermekte olup, detaylar için tam metni incelemenizi öneririz.
 
----
-
 > ## İçtihat Metni - Yargıtay 20. HD 2017/1981 E. , 2017/3785 K.
 >
 > Taraflar arasındaki siteye olan aidat borçları nedeniyle başlatılan icraya ilişkin itirazın iptali, %20'sinden az olmamak kaydıyla icra inkar tazminatına mahkum edilmesi davasının yapılan duruşması sonunda kurulan hükmün Yargıtayca incelenmesi davalı vekili tarafından istenilmekle, süresinde olduğu anlaşılan temyiz dilekçesinin kabulüne karar verildikten sonra dosya incelendi, gereği düşünüldü:
