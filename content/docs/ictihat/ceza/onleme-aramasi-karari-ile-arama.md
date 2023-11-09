@@ -23,7 +23,7 @@ Mahkeme, arama işleminin hukuka uygunluğunu esas alarak beraat kararı vermiş
   {{< /callout >}}
 
 {{< callout type="warning" >}}
-Bu özet, aşağıda paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi ve içtihat metni için lütfen tam karar metnini inceleyiniz.
+Bu özet, aşağıda paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi için lütfen tam karar metnini inceleyiniz.
 {{< /callout >}}
 
 > ## İçtihat Metni - Yargıtay 10. CD 2021/108 E. 2022/10856 K.
