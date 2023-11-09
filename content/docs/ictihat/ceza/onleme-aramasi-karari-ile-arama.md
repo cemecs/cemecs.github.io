@@ -10,8 +10,6 @@ draft: false
 **Hüküm:** Beraat
 {{< /callout >}}
 
-## Karar Özeti
-
 **Özet:**  
 Uyuşturucu madde ticareti suçlamasıyla yargılanan sanıkların, yapılan aramanın hukuka aykırı olduğu ve suçüstü hali bulunmadığı gerekçesiyle beraatlerine karar verilmiştir.  
 **Olayda yalnızca önleme araması kararına dayanılarak araç içerisinde detaylı arama yapılmıştır. Bu şekilde ele geçirilen uyuşturucu maddenin suça delil olamayacağına karar verilmiştir.**  
