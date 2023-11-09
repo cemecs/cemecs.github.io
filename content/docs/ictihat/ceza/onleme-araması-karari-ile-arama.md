@@ -49,8 +49,9 @@ Bu özet, yukarıda adı geçen mahkeme kararının genel bir özetini içermekt
 >
 > Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin kovuşturma sonuçlarına uygun şekilde oluşan inanç ve takdirine, incelenen dosya içeriğine göre, Cumhuriyet savcısının yerinde görülmeyen temyiz itirazlarının reddiyle, hükümlerin **ONANMASINA**, 27/10/2022 tarihinde oy birliği ile karar verildi.
 
-```plaintext {filename="main.go"}
+```md {filename="main.go"}
 ### 20. Hukuk Dairesi
+
 #### 2017/1981 E. , 2017/3785 K.
 
 **İçtihat Metni**
@@ -63,5 +64,4 @@ Taraflar arasındaki siteye olan aidat borçları nedeniyle başlatılan icraya 
 Davacı vekili dava dilekçesinde; aidat borçlarını ödemediğini ileri sürerek davalı borçlu aleyhine icra takibi başlattıklarını, takibe itiraz edilmesi sonucu takibin durduğunu ileri sürerek itirazın iptalini ve takibin devamını, alacağın %20'sinden az olmamak üzere inkar tazminatına hükmedilmesini istemiş, davalı vekili dilekçesinde aidat borçları için site yönetimi tarafından müvekkili belediyeye herhangi bir yazılı başvurunun yapılmadığını, site yönetiminin bütün kiracılarla sözleşme yaptığını, yapılan sözleşmelerde aidat borcu ile ilgili herhangi bir hüküm bulunmadığını, aidat borcu ödeme yükümlülüğünün kiracılara ait olması gerektiğini, müvekkili belediyeden istenemeyeceğini savunmuş; mahkemece davanın kısmen kabulüne karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiştir.
 634 sayılı Kat Mülkiyeti Kanununun 22. maddesine göre kat malikinin 20. madde uyarınca payına düşecek gider ve avans borcundan ve gecikme tazminatından, bağımsız bölümlerin birinde kira akdine, oturma hakkına veya başka bir sebebe dayanarak devamlı bir şekilde faydalananlarda müştereken ve müteselsilen sorumludur. Ancak kiracının sorumluluğu ödemekle yükümlü olduğu kira miktarı ile sınırlı olup, yaptığı ödeme kira borcundan düşülür. Kanunun bu hükmüne göre ortak gider ve aidat borcundan kural olarak kat maliki sorumludur. Kiracı ise kat maliki ile birlikte söz konusu borçlardan kira miktarı kadar her ay için müteselsil sorumlu bulunmaktadır.
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının davalıya yükletilmesine 02/05/2017 gününde oybirliğiyle karar verildi.
-
 ```
