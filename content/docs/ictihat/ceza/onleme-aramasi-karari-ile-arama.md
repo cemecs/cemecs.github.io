@@ -6,9 +6,11 @@ draft: false
 
 ## Karar Özeti
 
+{{< callout type="info" >}}
 **Karar No:** Yargıtay 10. CD 2021/108 E. 2022/10856 K.  
 **Suç:** TCK Madde 188 Uyuşturucu veya Uyarıcı Madde İmal ve Ticareti Suçu  
 **Hüküm:** Beraat
+{{< /callout >}}
 
 **Özet:**  
 Uyuşturucu madde ticareti suçlamasıyla yargılanan sanıkların, yapılan aramanın hukuka aykırı olduğu ve suçüstü hali bulunmadığı gerekçesiyle beraatlerine karar verilmiştir.  
