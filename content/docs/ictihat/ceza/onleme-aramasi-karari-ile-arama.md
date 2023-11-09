@@ -10,7 +10,7 @@ draft: false
 **Hüküm:** Beraat
 {{< /callout >}}
 
-Uyuşturucu madde ticareti suçlamasıyla yargılanan sanıkların, yapılan aramanın hukuka aykırı olduğu ve suçüstü hali bulunmadığı gerekçesiyle beraatlerine karar verilmiştir.  
+Kararda, uyuşturucu madde ticareti suçlamasıyla yargılanan sanıkların, yapılan aramanın hukuka aykırı olduğu ve suçüstü hali bulunmadığı gerekçesiyle beraatlerine karar verilmiştir.  
 **Olayda yalnızca önleme araması kararına dayanılarak araç içerisinde detaylı arama yapılmıştır. Bu şekilde ele geçirilen uyuşturucu maddenin suça delil olamayacağına karar verilmiştir.**  
 İlgili aramanın, Ceza Muhakemesi Kanunu'nun 161 ve 2559 sayılı Polis Vazife ve Salahiyet Kanunu'nun Ek 6. maddeleri gözetilmeden yapıldığı, dolayısıyla elde edilen delillerin hükme esas alınamayacağı sonucuna varılmıştır.  
 Mahkeme, arama işleminin hukuka uygunluğunu esas alarak beraat kararı vermiştir.
