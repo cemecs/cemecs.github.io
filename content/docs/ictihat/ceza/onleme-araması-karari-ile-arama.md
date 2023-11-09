@@ -49,7 +49,7 @@ Bu özet, yukarıda adı geçen mahkeme kararının genel bir özetini içermekt
 >
 > Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin kovuşturma sonuçlarına uygun şekilde oluşan inanç ve takdirine, incelenen dosya içeriğine göre, Cumhuriyet savcısının yerinde görülmeyen temyiz itirazlarının reddiyle, hükümlerin **ONANMASINA**, 27/10/2022 tarihinde oy birliği ile karar verildi.
 
-```md {filename="main.go"}
+```markdown {filename="main.go"}
 ### 20. Hukuk Dairesi
 
 #### 2017/1981 E. , 2017/3785 K.
