@@ -1,5 +1,5 @@
 ---
-title: "Adli Arama Kararı Olmamasına Rağmen Detaylı Arama Yapılması"
+title: "Adli Arama Kararı Alınmadan Detaylı Arama Yapılması"
 date: "2022-10-27"
 draft: false
 ---
