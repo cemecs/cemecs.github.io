@@ -15,7 +15,8 @@ draft: false
 **Özet:**  
 Uyuşturucu madde ticareti suçlamasıyla yargılanan sanıkların, yapılan aramanın hukuka aykırı olduğu ve suçüstü hali bulunmadığı gerekçesiyle beraatlerine karar verilmiştir.  
 **Olayda yalnızca önleme araması kararına dayanılarak araç içerisinde detaylı arama yapılmıştır. Bu şekilde ele geçirilen uyuşturucu maddenin suça delil olamayacağına karar verilmiştir.**  
-İlgili aramanın, Ceza Muhakemesi Kanunu'nun 161 ve 2559 sayılı Polis Vazife ve Salahiyet Kanunu'nun Ek 6. maddeleri gözetilmeden yapıldığı, dolayısıyla elde edilen delillerin hükme esas alınamayacağı sonucuna varılmıştır.
+İlgili aramanın, Ceza Muhakemesi Kanunu'nun 161 ve 2559 sayılı Polis Vazife ve Salahiyet Kanunu'nun Ek 6. maddeleri gözetilmeden yapıldığı, dolayısıyla elde edilen delillerin hükme esas alınamayacağı sonucuna varılmıştır.  
+Mahkeme, arama işleminin hukuka uygunluğunu esas alarak beraat kararı vermiştir.
 
 {{< callout emoji="📖" >}}
 **İlgili Mevzuat:**
@@ -23,8 +24,6 @@ Uyuşturucu madde ticareti suçlamasıyla yargılanan sanıkların, yapılan ara
 - Ceza Muhakemesi Kanunu (CMK) Madde 2, 90, 116, 119, 161.
 - Polis Vazife ve Salahiyet Kanunu (PVSK) Ek Madde 6.
   {{< /callout >}}
-
-Mahkeme, arama işleminin hukuka uygunluğunu esas alarak beraat kararı vermiştir.
 
 {{< callout type="warning" >}}
 Bu özet, aşağıda paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi ve içtihat metni için lütfen tam karar metnini inceleyiniz.
