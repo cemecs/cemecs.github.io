@@ -1,5 +1,5 @@
 ---
-title: "20. Hukuk Dairesi 2017/1981 E., 2017/3785 K. Kararının Özeti"
+title: "Kiracının Aidat Borcunda Evsahibinin Sorumluluğu"
 date: 2017-05-02
 draft: false
 ---
