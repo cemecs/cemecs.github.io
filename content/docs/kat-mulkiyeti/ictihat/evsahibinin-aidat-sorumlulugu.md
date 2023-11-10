@@ -26,10 +26,12 @@ Site yönetimi, davalı ev sahibinin aidat borçlarını ödemediğini iddia ede
 Mahkeme, Kat Mülkiyeti Kanunu'nun ilgili maddeleri uyarınca kat maliklerinin ve kiracıların aidat borçlarındaki sorumluluklarını değerlendirerek, davanın kısmen kabulüne ve ev sahibi ve kiracının aidat borçlarından müteselsilen sorumlu olduklarına karar vermiştir. Bu karar, davalı vekili tarafından temyiz edilmiş ancak Yargıtay tarafından usul ve yasaya uygun bulunarak onanmıştır.
 **Buna göre ev sahibi ve kiracı aidat borcundan mütelsilen sorumludurlar.**
 
+{{< callout emoji="📖" >}}
 **İlgili Kanun Maddeleri:**
 
 - 634 sayılı Kat Mülkiyeti Kanunu Madde 22
 - 634 sayılı Kat Mülkiyeti Kanunu Madde 20
+  {{< /callout >}}
 
 > ## İçtihat Metni - Yargıtay 20. HD 2017/1981 E. , 2017/3785 K.
 >
