@@ -27,7 +27,7 @@ Mahkeme, Kat Mülkiyeti Kanunu'nun ilgili maddeleri uyarınca kat maliklerinin v
 **Buna göre ev sahibi ve kiracı aidat borcundan mütelsilen sorumludurlar.**
 
 {{< callout emoji="📖" >}}
-**İlgili Kanun Maddeleri:**
+**İlgili Mevzuat:**
 
 - 634 sayılı Kat Mülkiyeti Kanunu Madde 22
 - 634 sayılı Kat Mülkiyeti Kanunu Madde 20
