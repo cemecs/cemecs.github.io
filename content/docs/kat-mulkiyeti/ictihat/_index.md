@@ -1,5 +1,5 @@
 ---
-title: Folder
+title: Mahkeme Kararları
 type: docs
 prev: docs/first-page
 next: docs/folder/leaf
