@@ -13,7 +13,7 @@ draft: false
 ## Karar Özeti
 
 {{< callout type="warning" >}}
-Bu özet, paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi için lütfen sayfa sonunda bulunan tam karar metnini inceleyiniz.
+Bu özet, paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi için sayfa sonunda bulunan tam karar metnini inceleyiniz.
 {{< /callout >}}
 
 Kararda, uyuşturucu madde ticareti suçlamasıyla yargılanan sanıkların, yapılan aramanın hukuka aykırı olduğu ve suçüstü hali bulunmadığı gerekçesiyle beraatlerine karar verilmiştir.  

@@ -11,7 +11,7 @@ draft: false
 ## Karar Özeti
 
 {{< callout type="warning" >}}
-Bu özet, paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi için lütfen sayfa sonunda bulunan tam karar metnini inceleyiniz.
+Bu özet, paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi için sayfa sonunda bulunan tam karar metnini inceleyiniz.
 {{< /callout >}}
 
 Site yönetimi, davalı ev sahibinin aidat borçlarını ödemediğini iddia ederek icra takibi başlatmış ve takibe itiraz edilmesi üzerine itirazın iptali ve icra inkar tazminatına mahkumiyet talep etmiştir. Davalı ise, aidat borçlarının kiracılara yükletilmesi gerektiğini savunmuştur.
