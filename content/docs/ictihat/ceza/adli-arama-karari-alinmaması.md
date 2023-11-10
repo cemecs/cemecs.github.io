@@ -12,6 +12,10 @@ draft: false
 
 ## Karar Özeti
 
+{{< callout type="warning" >}}
+Bu özet, paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi için lütfen sayfa sonunda bulunan tam karar metnini inceleyiniz.
+{{< /callout >}}
+
 Kararda, uyuşturucu madde ticareti suçlamasıyla yargılanan sanıkların, yapılan aramanın hukuka aykırı olduğu ve suçüstü hali bulunmadığı gerekçesiyle beraatlerine karar verilmiştir.  
 **Olayda adli arama kararı bulunmaksızın araç içerisinde detaylı arama yapılarak ele geçirilen uyuşturucu maddenin delil niteliği taşımadığı vurgulanmıştır.**  
 İlgili aramanın, Ceza Muhakemesi Kanunu'nun 161 ve 2559 sayılı Polis Vazife ve Salahiyet Kanunu'nun Ek 6. maddeleri gözetilmeden yapıldığı, dolayısıyla elde edilen delillerin hükme esas alınamayacağı sonucuna varılmıştır.  
@@ -23,10 +27,6 @@ Mahkeme, arama işleminin hukuka uygun olmadığı gerekçesiyle beraat kararı 
 - Ceza Muhakemesi Kanunu (CMK) Madde 2, 90, 116, 119, 161.
 - Polis Vazife ve Salahiyet Kanunu (PVSK) Ek Madde 6.
   {{< /callout >}}
-
-{{< callout type="warning" >}}
-Bu özet, aşağıda paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi için lütfen tam karar metnini inceleyiniz.
-{{< /callout >}}
 
 > ## İçtihat Metni - Yargıtay 10. CD 2021/108 E. 2022/10856 K.
 >
