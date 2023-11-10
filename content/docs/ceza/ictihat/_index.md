@@ -1,7 +1,7 @@
 ---
 title: Mahkeme Kararları
 type: docs
-prev: docs/first-page
+prev: docs/ceza/
 next: docs/folder/leaf
 sidebar:
   open: false
