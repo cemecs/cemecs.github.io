@@ -2,6 +2,8 @@
 title: İletişim
 ---
 
+{{< rawhtml >}}
+
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mgejbwpz" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Ad Soyad</label>
@@ -14,3 +16,4 @@ title: İletişim
   </fieldset>
   <input type="submit" value="Gönder">
 </form>
+{{< /rawhtml >}}
