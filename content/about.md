@@ -11,7 +11,7 @@ type: about
 
 {{< cards >}}
 {{< card link="https://www.linkedin.com/in/ali-cem-%C5%9Fener-5507964a" title="Linkedin" icon="linkedin" >}}
-{{< card link=contact title="İletişim" icon="mail" >}}
+{{< card link=/contact title="İletişim" icon="mail" >}}
 {{< /cards >}}
 
 #### Profesyonel Deneyim
