@@ -29,7 +29,7 @@ menu:
       pageRef: /about
       weight: 3
     - name: İletişim ↗
-      url: "https://github.com/imfing"
+      pageRef: /contact
       weight: 4
     - name: Search
       weight: 5
