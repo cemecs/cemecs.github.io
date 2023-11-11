@@ -1,4 +1,6 @@
-<!-- modify this form HTML and place wherever you want your form -->
+---
+title: İletişim
+---
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mgejbwpz" method="post">
   <fieldset id="fs-frm-inputs">
