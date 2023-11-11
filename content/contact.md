@@ -20,3 +20,23 @@ title: İletişim
     <input type="submit" value="Gönder" class="btn btn-primary">
   </fieldset>
 </form>
+
+<div class="container">
+  <!-- CHANGE THE URL HERE -->
+  <form action="https://app.99inbound.com/e/123" method="POST" target="_blank">
+    <h3 style="text-align: center;">Contact Us</h3>
+
+  <div class="form-group">
+    <label for="email">Email address</label>
+    <input name="email" type="email"  class="form-control" id="email" placeholder="Enter email" required>
+   </div>
+
+  <div class="form-group">
+    <label for="message">Message</label>
+    <textarea name="message" class="form-control" id="message" rows="5" placeholder="Enter message" required></textarea>
+  </div>
+
+<button type="submit" class="btn btn-primary float-right">Submit</button>
+
+  </form>
+</div>
