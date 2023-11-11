@@ -13,8 +13,6 @@ type: about
 {{< card link="https://www.linkedin.com/in/ali-cem-%C5%9Fener-5507964a" title="Linkedin" icon="linkedin" >}}
 {{< /cards >}}
 
----
-
 #### Profesyonel Deneyim
 
 - **Sener Law Firm**  
