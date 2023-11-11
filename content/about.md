@@ -3,6 +3,41 @@ title: About
 type: about
 ---
 
-This is the about page. test
+### Ali Cem Şener
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3d1NerQWI7pjNC0VbHHBm8fvl5x5TzB0CCwSQijpY95VzKw/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
+**Avukat | İstanbul, Türkiye**
+
+---
+
+#### Profesyonel Deneyim
+
+- **Sener Law Firm**  
+  _Avukat_  
+  Temmuz 2019 - Şu Anda (4 yıl 5 ay)  
+  İstanbul, Türkiye
+
+- **BSHK Hatip LAW FIRM**  
+  _Avukat_  
+  Ocak 2019 - Haziran 2019 (6 ay)
+
+- **Hukuk Araştırmaları-Av. Sait Karabulut**  
+  _Yaz Stajyeri_  
+  Haziran 2016 - Eylül 2016 (4 ay)  
+  Temmuz 2015 - Eylül 2015 (3 ay)
+
+- **Hanci & Partner Law Office**  
+  _Yaz Stajyeri_  
+  Haziran 2014 - Ağustos 2014 (3 ay)
+
+---
+
+#### Eğitim
+
+- **Kadir Has Üniversitesi**  
+  Lisans Derecesi, Hukuk  
+  2013 - 2018
+
+- **Kadıköy Anadolu Lisesi**  
+  2008 - 2013
+
+---
