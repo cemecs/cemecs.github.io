@@ -1,11 +1,17 @@
 ---
-title: Av. Ali Cem Şener
+title: Hakkımda
 type: about
 ---
 
 ### Ali Cem Şener
 
 **Avukat | İstanbul, Türkiye**
+
+---
+
+{{< cards >}}
+{{< card link="https://www.linkedin.com/in/ali-cem-%C5%9Fener-5507964a" title="Linkedin" icon="linkedin" >}}
+{{< /cards >}}
 
 ---
 
