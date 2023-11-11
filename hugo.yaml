@@ -18,17 +18,17 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Dokümanlar
       pageRef: /docs
       weight: 1
     - identifier: blog
       name: Blog
       pageRef: /blog
       weight: 2
-    - name: About
+    - name: Hakkımda
       pageRef: /about
       weight: 3
-    - name: Contact ↗
+    - name: İletişim ↗
       url: "https://github.com/imfing"
       weight: 4
     - name: Search
