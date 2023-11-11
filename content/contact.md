@@ -1,6 +1,6 @@
 ---
 title: İletişim
-type: contact
+type: page
 ---
 
 <!-- modify this form HTML and place wherever you want your form -->
