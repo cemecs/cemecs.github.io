@@ -58,5 +58,6 @@
   </script>
 
   {{ partial "custom/head-end.html" . }} {{ partial "breadcrumb-schema.html" .
-  }}
+  }} {{ if or (eq .Type "docs") (eq .Type "blog") }} {{ partial
+  "article-schema.html" . }} {{ end }}
 </head>
