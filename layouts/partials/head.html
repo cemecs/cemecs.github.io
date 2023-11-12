@@ -60,5 +60,6 @@
   {{ partial "custom/head-end.html" . }} {{ partial "breadcrumb-schema.html" .
   }} {{ if or (eq .Type "docs") (eq .Type "blog") }} {{ partial
   "article-schema.html" . }} {{ end }} {{ if .IsHome }} {{ partial
-  "legal-service-schema.html" . }} {{ end }}
+  "legal-service-schema.html" . }} {{ end }} {{ if eq .Type "About" }} {{
+  partial "person-schema.html" . }} {{ end }}
 </head>
