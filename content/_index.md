@@ -5,7 +5,7 @@ toc: false
 
 This is the landing page.
 
-## Explore
+## Bölümler
 
 {{< cards >}}
 {{< card link="docs/ceza" title="Ceza Hukuku" icon="book-open" >}}
