@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{- range $index, $element := .Ancestors.Reverse }}
+      {{- if not .IsHome }}
+      {
+        "@type": "ListItem",
+        "position": {{ add $index 1 }},
+        "item": {
+          "@id": "{{ $element.Permalink }}",
+          "name": "{{ $element.LinkTitle }}"
+        }
+      }{{ if lt $index (sub (len .Ancestors) 1) }},{{ end }}
+      {{- end }}
+      {{- end }}
+      {
+        "@type": "ListItem",
+        "position": {{ add (len .Ancestors) 1 }},
+        "item": {
+          "@id": "{{ .Permalink }}",
+          "name": "{{ .LinkTitle }}"
+        }
+      }
+    ]
+  }
+</script>
