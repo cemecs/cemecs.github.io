@@ -3,6 +3,7 @@
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
+      {{- $len := len .Ancestors -}}
       {{- range $index, $element := .Ancestors.Reverse }}
       {{- if not .IsHome }}
       {
@@ -12,12 +13,12 @@
           "@id": "{{ $element.Permalink }}",
           "name": "{{ $element.LinkTitle }}"
         }
-      }{{ if lt $index (sub (len .Ancestors) 1) }},{{ end }}
+      }{{ if lt $index (sub $len 1) }},{{ end }}
       {{- end }}
-      {{- end }}
+      {{- end }},
       {
         "@type": "ListItem",
-        "position": {{ add (len .Ancestors) 1 }},
+        "position": {{ add $len 1 }},
         "item": {
           "@id": "{{ .Permalink }}",
           "name": "{{ .LinkTitle }}"
