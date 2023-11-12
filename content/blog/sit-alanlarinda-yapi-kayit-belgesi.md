@@ -4,8 +4,6 @@ date: "2022-10-27"
 draft: false
 ---
 
-# 18 Mayıs 2018 Tarihli 7143 Sayılı Kanun ve İmar Barışı
-
 18 Mayıs 2018 tarih ve 30245 sayılı Resmi Gazete’de yayımlanan 7143 sayılı Kanun’un 16. Maddesi ile 3194 sayılı İmar Kanunu’nda değişiklik yapılarak imar barışı olarak bilinen Yapı Kayıt Belgesi kavramı hukukumuza girmiştir.
 
 Yapı Kayıt Belgesi ile ruhsatsız veya ruhsat ve eklerine aykırı olarak 31/12/2017 tarihinden önce yapılan yapıların kayıt altına alınması ve kullanımına izin verilmesi sağlanmıştır. İlgili mevzuatta Yapı Kayıt Belgesi alamayacak yapılar ve bölgeler tanımlanmıştır.
