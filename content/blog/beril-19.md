@@ -58,7 +58,3 @@ Upon reviewing and correcting the calculation:
    \]
 
 So the correct pH of the solution after dilution is 1.99, not 5.3 as originally calculated. The mass/mass percentage given in the problem statement was not needed for the calculation since the actual mass of \( H_2SO_4 \) was provided. If the m/m percentage was to be used, it would be part of a different calculation where the total mass of the solution before dilution would be considered.
-
-```
-
-```
