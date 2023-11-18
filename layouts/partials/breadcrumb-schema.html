@@ -15,7 +15,8 @@
         }
       }{{ if lt $index (sub $len 1) }},{{ end }}
       {{- end }}
-      {{- end }},
+      {{- end }}
+      {{ if gt $len 0 }},{{ end }}
       {
         "@type": "ListItem",
         "position": {{ add $len 1 }},
