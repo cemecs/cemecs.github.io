@@ -1,6 +1,8 @@
 # Hugo configuration file
 title: senerlegal
 
+baseURL: "https://senerlegal.com/"
+
 # import hextra as module
 module:
   imports:
@@ -35,7 +37,7 @@ menu:
       weight: 5
       params:
         type: search
-    - name: GitHub
+    - name: linkedin
       weight: 6
       url: https://www.linkedin.com/in/ali-cem-%C5%9Fener-5507964a
       params:
