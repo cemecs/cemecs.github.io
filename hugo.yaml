@@ -37,12 +37,12 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://www.linkedin.com/in/ali-cem-%C5%9Fener-5507964a"
+      href: "https://www.linkedin.com/in/ali-cem-%C5%9Fener-5507964a"
       params:
         icon: linkedin
     - name: Twitter
       weight: 7
-      url: "https://twitter.com/alicemsener"
+      url: "contact"
       params:
         icon: mail
 
