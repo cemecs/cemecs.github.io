@@ -7,4 +7,8 @@ sidebar:
   open: false
 ---
 
-Pages can be organized into folders.
+Bu bölümde Kat Mülkiyeti Hukukuna ilişkin emsal mahkeme kararları bulunmaktadır.
+
+{{< cards >}}
+{{< card link="/lglv2/docs/kat-mulkiyeti/ictihat/evsahibinin-aidat-sorumlulugu.md" title="Ev Sahibinin Kiracının Ödemediği Aidattan Sorumluluğu hk." icon="book-open" >}}
+{{< /cards >}}
