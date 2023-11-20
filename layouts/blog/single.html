@@ -62,11 +62,11 @@
         {{- end -}} {{- end -}} {{- end -}}
       </div>
       <div class="content">{{ .Content }}</div>
-      {{ partial "share-buttons.html" . }} {{ partial
-      "components/last-updated.html" . }} {{ .Scratch.Set "reversePagination"
-      true }} {{ partial "components/pager.html" . }} {{ partial
-      "components/comments.html" . }}
+      {{ partial "components/last-updated.html" . }} {{ .Scratch.Set
+      "reversePagination" true }} {{ partial "components/pager.html" . }} {{
+      partial "components/comments.html" . }}
     </main>
   </article>
+  {{ partial "share-buttons.html" . }}
 </div>
-{{ partial "share-buttons.html" . }} {{ end }}
+{{ end }}
