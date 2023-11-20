@@ -63,3 +63,7 @@ params:
 
     #robots.txt
     enableRobotsTXT: false
+
+services:
+  googleAnalytics:
+    ID: G-4CWTR3L1DN

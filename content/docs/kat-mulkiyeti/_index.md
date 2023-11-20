@@ -10,3 +10,7 @@ sidebar:
 {{< cards >}}
 {{< card link="/docs/kat-mulkiyeti/ictihat" title="Mahkeme Kararları" icon="book-open" >}}
 {{< /cards >}}
+
+{{< cards >}}
+{{< card link="/docs/kat-mulkiyeti/kmk" title="Kat Mülkiyeti Kanunu" icon="book-open" >}}
+{{< /cards >}}
