@@ -26,7 +26,7 @@ Mahkeme, arama işleminin hukuka uygun olmadığı gerekçesiyle beraat kararı 
 
 - Ceza Muhakemesi Kanunu (CMK) Madde 2, 90, 116, 119, 161.
 - Polis Vazife ve Salahiyet Kanunu (PVSK) Ek Madde 6.
-- Türk Ceza Kanunu (TCK) Madde 188
+- [Türk Ceza Kanunu (TCK) Madde 188](tck/md-188)
   {{< /callout >}}
 
 > ## İçtihat Metni - Yargıtay 10. CD 2021/108 E. 2022/10856 K.
@@ -53,3 +53,5 @@ Mahkeme, arama işleminin hukuka uygun olmadığı gerekçesiyle beraat kararı 
 > **Suça konu uyuşturucu maddenin, araç içinde, ağzı kapalı poşette ve dışarıdan bakıldığında görünmeyecek şekilde bulunduğu nazara alındığında, CMK'nın 161 ve 2559 sayılı PVSK'nın Ek 6. maddeleri uyarınca derhal Cumhuriyet savcısına olayın haber verilip Cumhuriyet savcısının emri doğrultusunda soruşturma işlemlerine devam edilmesi ve CMK’nın 116 ve 119. maddeleri uyarınca Cumhuriyet savcısının yazılı arama emri veya mahkemeden alınacak adli arama kararı uyarınca sanıkların ve içinde bulundukları aracın aranabileceği gözetilmeden, önleme arama kararına dayanarak yapılan arama neticesinde suçun konusu ve delili niteliğinde olan maddenin hukuka aykırı olarak elde edildiği** ve bu nedenle hükme esas alınamayacağı anlaşıldığından Mahkemenin kararında bir isabetsizlik görülmemiş ve bozma isteyen tebliğnamedeki düşünceye iştirak edilmemiştir.
 >
 > Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin kovuşturma sonuçlarına uygun şekilde oluşan inanç ve takdirine, incelenen dosya içeriğine göre, Cumhuriyet savcısının yerinde görülmeyen temyiz itirazlarının reddiyle, hükümlerin **ONANMASINA**, 27/10/2022 tarihinde oy birliği ile karar verildi.
+
+[def]: tck/md-188
