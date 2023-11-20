@@ -7,4 +7,6 @@ sidebar:
   open: false
 ---
 
-Pages can be organized into folders.
+{{< cards >}}
+{{< card link="/docs/kat-mulkiyeti/ictihat" title="Mahkeme Kararları" icon="book-open" >}}
+{{< /cards >}}

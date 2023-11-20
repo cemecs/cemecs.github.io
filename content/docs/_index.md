@@ -1,18 +1,8 @@
 ---
-title: Documentation
-next: first-page
+title: Dökümanlar
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+{{< cards >}}
+{{< card link="docs/ceza" title="Ceza Hukuku" icon="book-open" >}}
+{{< card link="docs/kat-mulkiyeti" title="Kat Mülkiyeti Hukuku" icon="book-open" >}}
+{{< /cards >}}
