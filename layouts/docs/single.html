@@ -7,11 +7,11 @@
       {{ partial "breadcrumb.html" . }}
       <div class="content">
         <h1>{{ .Title }}</h1>
-        {{ .Content }}
+        {{ .Content }} {{ partial "share-buttons.html" . }}
       </div>
       {{ partial "components/last-updated.html" . }} {{ partial
       "components/pager.html" . }} {{ partial "components/comments.html" . }}
     </main>
   </article>
 </div>
-{{ end }} {{ partial "share-buttons.html" . }}
+{{ end }}
