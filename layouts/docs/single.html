@@ -9,10 +9,13 @@
         <h1>{{ .Title }}</h1>
         {{ .Content }}
       </div>
+      <div class="share-buttons-container my-4">
+        <!-- Ekstra boşluk için -->
+        {{ partial "share-buttons.html" . }}
+      </div>
       {{ partial "components/last-updated.html" . }} {{ partial
       "components/pager.html" . }} {{ partial "components/comments.html" . }}
     </main>
-    {{ partial "share-buttons.html" . }}
   </article>
 </div>
 {{ end }}
