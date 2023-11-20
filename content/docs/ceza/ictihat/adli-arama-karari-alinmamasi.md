@@ -26,7 +26,7 @@ Mahkeme, arama işleminin hukuka uygun olmadığı gerekçesiyle beraat kararı 
 
 - Ceza Muhakemesi Kanunu (CMK) Madde 2, 90, 116, 119, 161.
 - Polis Vazife ve Salahiyet Kanunu (PVSK) Ek Madde 6.
-- [Türk Ceza Kanunu (TCK) Madde 188](tck/md-188)
+- [Türk Ceza Kanunu (TCK) Madde 188](/tck/md-188)
   {{< /callout >}}
 
 > ## İçtihat Metni - Yargıtay 10. CD 2021/108 E. 2022/10856 K.
