@@ -5,7 +5,7 @@ printf "%s" .Permalink | absLangURL }} {{ $textBody := print .Title "\n\n"
 (.Summary | truncate 200) "\n\n" $url "\n" }} {{ $encodedSummary :=
 strings.TrimPrefix "=" (querify "" (.Summary | truncate 200)) }}
 <nav class="sharebuttons">
-  <span>{{ i18n "share_on" }}:</span>
+  <span class="share-title">Paylaş</span>
   <ul>
     {{ if $switches.facebook }}
     <li>
@@ -144,7 +144,7 @@ strings.TrimPrefix "=" (querify "" (.Summary | truncate 200)) }}
 </nav>
 <style>
   .sharebuttons, .sharebuttons ul {display: flex; margin: 0.25rem 0; align-items: center;}
-  .sharebuttons span {color: {{ $textcolor }};}
+  .share-title {font-weight: bold; margin-right: 0.5rem; color: {{ $textcolor }};}
   .sharebuttons ul li {list-style: none; margin: 0;}
   .sharebuttons ul li a {margin: 0 0.5rem; display: block;}
   .sharebuttons ul li:first-child a {margin: 0 0.2rem 0 0.5rem;}
