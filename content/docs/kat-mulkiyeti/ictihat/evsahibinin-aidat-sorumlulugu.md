@@ -1,5 +1,5 @@
 ---
-title: "Kiracının Aidat Borcunda Evsahibinin Sorumluluğu"
+title: "Ev Sahibinin Kiracının Aidat Borcundan Sorumluluğu"
 date: 2017-05-02
 draft: false
 ---
