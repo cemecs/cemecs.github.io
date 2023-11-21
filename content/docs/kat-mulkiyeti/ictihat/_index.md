@@ -12,3 +12,7 @@ Bu bölümde Kat Mülkiyeti Hukukuna ilişkin emsal mahkeme kararları bulunmakt
 {{< cards >}}
 {{< card link="/docs/kat-mulkiyeti/ictihat/evsahibinin-aidat-sorumlulugu" title="Ev Sahibinin Kiracının Ödemediği Aidattan Sorumluluğu hk." icon="book-open" >}}
 {{< /cards >}}
+
+{{< cards >}}
+{{< card link="/docs/kat-mulkiyeti/ictihat/apartman-yoneticisinin-sozlesme-yetkisi" title="Apartman Yöneticisinin Sözleşme Yapma Yetkisi hk." icon="book-open" >}}
+{{< /cards >}}

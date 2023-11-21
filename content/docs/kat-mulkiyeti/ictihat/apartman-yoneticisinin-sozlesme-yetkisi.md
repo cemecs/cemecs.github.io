@@ -1,5 +1,5 @@
 ---
-title: "Apartman Yöneticisinin Sözleşme Yapma Yetkisi"
+title: "Apartman Yöneticisinin Sözleşme Yapma Yetkisi hk."
 date: 2023-11-21
 ---
 
@@ -27,7 +27,7 @@ Karar, 634 sayılı Kat Mülkiyeti Kanunu'nun 32. ve 34. maddelerine dayanmaktad
 
 ### Sonuç
 
-Kararda, apartman yöneticisinin ve kat maliklerinin dava ve taraf ehliyetine sahip olduğu, bu nedenle ilk derece mahkemesinin kararının yanılgılı olduğu ve işin esası incelenerek yeni bir karar verilmesi gerektiği sonucuna varılmıştır.
+Kararda, apartman yöneticisinin ve kat maliklerinin dava ve taraf ehliyetine sahip olduğu, bu nedenle ilk derece mahkemesinin kararının hatalı olduğu sonucuna varılmıştır.
 Bu sebeple, yerel mahkemenin kararı bozulmuştur.
 
 {{< callout emoji="📖" >}}
@@ -131,7 +131,7 @@ Bu sebeple, yerel mahkemenin kararı bozulmuştur.
 > gerekirken, yazılı şekilde davanın tüm davalılar yönünden pasif
 > husumet yokluğu nedeniyle reddine karar verilmesi ve Bölge Adliye
 > Mahkemesince de istinaf başvurusunun esastan reddi doğru olmadığından
-> kararın davacı yararına bozulması uygun bulunmuştur.
+> kararın davacı yararına bozulması uygun bulunmuştur.  
 > **SONUÇ:** Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabulü ile Ankara Bölge Adliye Mahkemesi 31. Hukuk
 > dairesinin 30.12.2020 tarih ve 2020/1216 esas- 2020/307 karar sayılı
 > kararının kaldırılarak İlk Derece Mahkemesi kararınını davacı yararına
