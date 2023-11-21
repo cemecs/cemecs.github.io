@@ -28,7 +28,7 @@ Karar, 634 sayılı Kat Mülkiyeti Kanunu'nun 32. ve 34. maddelerine dayanmaktad
 {{< callout emoji="📖" >}}
 **İlgili Yasal Düzenlemeler:**
 
-- 634 sayılı Kat Mülkiyeti Kanunu Madde 32
+- [634 sayılı Kat Mülkiyeti Kanunu Madde 32](/docs/kat-mulkiyeti/kmk/md-32)
 - 634 sayılı Kat Mülkiyeti Kanunu Madde 34
   {{< /callout >}}
 
