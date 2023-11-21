@@ -1,5 +1,5 @@
 ---
-title: Kat Mülkiyeti Kanunu
+title: 634 Sayılı Kat Mülkiyeti Kanunu
 type: docs
 prev: docs/kat-mulkiyeti/
 next: docs/kat-mulkiyeti/ictihat
