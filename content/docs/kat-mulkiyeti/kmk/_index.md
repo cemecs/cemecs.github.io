@@ -7,7 +7,7 @@ sidebar:
   open: false
 ---
 
-Bu bölümde 634 sayılı Kat Mülkiyeti Kanunu bulunmaktadır.
+Bu bölümde 634 sayılı Kat Mülkiyeti Kanunu maddeleri bulunmaktadır.
 
 {{< cards >}}
 {{< card link="md-20" title="Madde 20" icon="book-open" >}}

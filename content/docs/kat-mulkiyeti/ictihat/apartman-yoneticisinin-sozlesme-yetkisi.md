@@ -25,11 +25,6 @@ Ancak Yargıtay, kararı bozmuş ve davacının temyiz itirazlarını kabul etmi
 Karar, 634 sayılı Kat Mülkiyeti Kanunu'nun 32. ve 34. maddelerine dayanmaktadır. Bu maddelere göre, apartman yöneticileri kat malikleri kurulu kararı ile üçüncü kişilerle borç ve alacak ilişkisi doğuracak sözleşmeler yapabilir ve bu tür sözleşmeler kat maliklerini bağlar.
 **Yöneticinin, kat malikleri adına ve hesabına hukuki sonuç doğuran sözleşmeler yapma yetkisi bulunmaktadır.**
 
-### Sonuç
-
-Kararda, apartman yöneticisinin ve kat maliklerinin dava ve taraf ehliyetine sahip olduğu, bu nedenle ilk derece mahkemesinin kararının hatalı olduğu sonucuna varılmıştır.
-Bu sebeple, yerel mahkemenin kararı bozulmuştur.
-
 {{< callout emoji="📖" >}}
 **İlgili Yasal Düzenlemeler:**
 
