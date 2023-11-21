@@ -7,7 +7,7 @@ sidebar:
   open: false
 ---
 
-Bu bölümde 5237 Sayılı Türk Ceza Kanunu maddeler bulunmaktadır.
+Bu bölümde 5237 Sayılı Türk Ceza Kanunu maddeleri bulunmaktadır.
 
 {{< cards >}}
 {{< card link="md-154" title="Madde 154" icon="book-open" >}}
