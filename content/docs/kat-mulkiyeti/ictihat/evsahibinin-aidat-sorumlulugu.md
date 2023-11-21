@@ -22,8 +22,8 @@ Mahkeme, Kat Mülkiyeti Kanunu'nun ilgili maddeleri uyarınca kat maliklerinin v
 {{< callout emoji="📖" >}}
 **İlgili Yasal Düzenlemeler:**
 
-- [634 sayılı Kat Mülkiyeti Kanunu Madde 20](/docs/kat-mulkiyeti/kmk/md-20.md)
-- [634 sayılı Kat Mülkiyeti Kanunu Madde 22](/docs/kat-mulkiyeti/kmk/md-22.md)
+- [634 sayılı Kat Mülkiyeti Kanunu Madde 20](/docs/kat-mulkiyeti/kmk/md-20)
+- [634 sayılı Kat Mülkiyeti Kanunu Madde 22](/docs/kat-mulkiyeti/kmk/md-22)
   {{< /callout >}}
 
 > ## İçtihat Metni - Yargıtay 20. HD 2017/1981 E. , 2017/3785 K.
