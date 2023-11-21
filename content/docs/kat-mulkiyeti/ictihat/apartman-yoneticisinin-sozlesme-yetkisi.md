@@ -1,7 +1,8 @@
 ---
-title: "6. Hukuk Dairesi 2021/28 E., 2021/179 K. Kararının Değerlendirilmesi"
+title: "Apartman Yöneticisinin Sözleşme Yapma Yetkisi"
 date: 2023-11-21
 ---
+
 {{< callout type="info" >}}
 **Karar No:** Yargıtay 6. HD 2021/28 E. 2021/179 K.  
 {{< /callout >}}
@@ -12,23 +13,33 @@ date: 2023-11-21
 Bu özet, paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi için sayfa sonunda bulunan tam karar metnini inceleyiniz.
 {{< /callout >}}
 
-Bu dava, eser sözleşmesi kapsamında yapılan işlerin bedelinin tahsili için başlatılan ilamsız icra takibine itirazın iptaline ilişkindir.   
-Davacı, dava dışı apartman yönetimi ile imzaladığı sözleşme gereği dış cephe ısı yalıtım ve dış boyası işlerini tamamlayarak ilgili faturayı düzenlemiş, ancak bakiye borçların ödenmemesi üzerine icra takibi başlatmıştır. 
+Bu dava, eser sözleşmesi kapsamında yapılan işlerin bedelinin tahsili için başlatılan ilamsız icra takibine itirazın iptaline ilişkindir.  
+Davacı, dava dışı apartman yönetimi ile imzaladığı sözleşme gereği dış cephe ısı yalıtım ve dış boyası işlerini tamamlayarak ilgili faturayı düzenlemiş, ancak bakiye borçların ödenmemesi üzerine icra takibi başlatmıştır.
 Bazı davalılar, icra takibine itiraz ederek, davacının işi yarım bıraktığını iddia etmişlerdir.
 
-İlk derece mahkemesi, davalıların pasif husumet ehliyeti olmadığı gerekçesiyle davanın reddine karar vermiştir. 
+İlk derece mahkemesi, davalıların pasif husumet ehliyeti olmadığı gerekçesiyle davanın reddine karar vermiştir.
 Ancak Yargıtay, kararı bozmuş ve davacının temyiz itirazlarını kabul etmiştir.
 
 ### Hukuki Değerlendirme
-Karar, 634 sayılı Kat Mülkiyeti Kanunu'nun 32. ve 34. maddelerine dayanmaktadır. Bu maddelere göre, apartman yöneticileri kat malikleri kurulu kararı ile üçüncü kişilerle borç ve alacak ilişkisi doğuracak sözleşmeler yapabilir ve bu tür sözleşmeler kat maliklerini bağlar. 
+
+Karar, 634 sayılı Kat Mülkiyeti Kanunu'nun 32. ve 34. maddelerine dayanmaktadır. Bu maddelere göre, apartman yöneticileri kat malikleri kurulu kararı ile üçüncü kişilerle borç ve alacak ilişkisi doğuracak sözleşmeler yapabilir ve bu tür sözleşmeler kat maliklerini bağlar.
 **Yöneticinin, kat malikleri adına ve hesabına hukuki sonuç doğuran sözleşmeler yapma yetkisi bulunmaktadır.**
 
 ### Sonuç
-Kararda, apartman yöneticisinin ve kat maliklerinin dava ve taraf ehliyetine sahip olduğu, bu nedenle ilk derece mahkemesinin kararının yanılgılı olduğu ve işin esası incelenerek yeni bir karar verilmesi gerektiği sonucuna varılmıştır. 
+
+Kararda, apartman yöneticisinin ve kat maliklerinin dava ve taraf ehliyetine sahip olduğu, bu nedenle ilk derece mahkemesinin kararının yanılgılı olduğu ve işin esası incelenerek yeni bir karar verilmesi gerektiği sonucuna varılmıştır.
 Bu sebeple, yerel mahkemenin kararı bozulmuştur.
 
->  ## İçtihat Metni - Yargıtay 6. HD 2021/28 E. , 2021/179 K.
-> **K A R A R -**  Dava, eser sözleşmesinden kaynaklanmış olup, bakiye iş bedelinin tahsili için yapılan ilamsız icra takibine vaki itirazın
+{{< callout emoji="📖" >}}
+**İlgili Yasal Düzenlemeler:**
+
+- 634 sayılı Kat Mülkiyeti Kanunu Madde 32
+- 634 sayılı Kat Mülkiyeti Kanunu Madde 34
+  {{< /callout >}}
+
+> ## İçtihat Metni - Yargıtay 6. HD 2021/28 E. , 2021/179 K.
+>
+> **K A R A R -** Dava, eser sözleşmesinden kaynaklanmış olup, bakiye iş bedelinin tahsili için yapılan ilamsız icra takibine vaki itirazın
 > iptali istemine ilişkindir. Davacı vekili dava dilekçesinde; davacı
 > müvekkilinin faaliyet konusuna uygun olarak dava dışı ... apartmanı
 > yönetimi ile “Isı yalıtımı ve ek işlerin yapımı” için 26.08.2014
@@ -68,8 +79,7 @@ Bu sebeple, yerel mahkemenin kararı bozulmuştur.
 > yüklenicinin alacağını sözleşmenin tarafı olan apartman yönetimi
 > yerine bağımsız bölüm sahibi olan davalılardan isteyip isteyemeyeceği,
 > kat maliki davalıların da davalı sıfatlarının bulunup bulunmadığı
-> noktasında toplanmaktadır. 634 sayılı Kat Mülkiyeti Kanunu’nun (KMK)
-> 32. maddesinde ana gayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek
+> noktasında toplanmaktadır. 634 sayılı Kat Mülkiyeti Kanunu’nun (KMK) 32. maddesinde ana gayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek
 > kararlara göre yönetileceği, 34. maddesinde ise kat maliklerinin, ana
 > gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri
 > bir kimseye (yönetici) veya üç kişilik bir kurula (yönetim kurulu)
@@ -121,8 +131,8 @@ Bu sebeple, yerel mahkemenin kararı bozulmuştur.
 > gerekirken, yazılı şekilde davanın tüm davalılar yönünden pasif
 > husumet yokluğu nedeniyle reddine karar verilmesi ve Bölge Adliye
 > Mahkemesince de istinaf başvurusunun esastan reddi doğru olmadığından
-> kararın davacı yararına bozulması uygun bulunmuştur. 
-> **SONUÇ:**  Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabulü ile Ankara Bölge Adliye Mahkemesi 31. Hukuk
+> kararın davacı yararına bozulması uygun bulunmuştur.
+> **SONUÇ:** Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabulü ile Ankara Bölge Adliye Mahkemesi 31. Hukuk
 > dairesinin 30.12.2020 tarih ve 2020/1216 esas- 2020/307 karar sayılı
 > kararının kaldırılarak İlk Derece Mahkemesi kararınını davacı yararına
 > BOZULMASINA, peşin alınan harcın istek halinde temyiz edene iadesine,
