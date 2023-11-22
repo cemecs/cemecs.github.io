@@ -15,7 +15,7 @@ draft: false
 Bu özet, paylaşılan mahkeme kararının genel bir özetini içermektedir. Detaylı bilgi için sayfa sonunda bulunan tam karar metnini inceleyiniz.
 {{< /callout >}}
 
-Dava konusu olayda, davacının satın aldığı taşınmaz önalım hakkının kullanması nedeniyle üçüncü kişinin mülkiyetine geçmiştir.
+Dava konusu olayda, davacının satın aldığı taşınmaz önalım hakkının kullanılması nedeniyle üçüncü kişinin mülkiyetine geçmiştir.
 Davacı, önalım hakkı davasında hissesine karşılık olarak 148,60 TL almıştır.  
 Davacı, taşınmaz için 35.000,00 TL ödeme yaptığını ve aralarında yazılı bir sözleşme bulunduğunu iddia ederek, aradaki farkın satıcı tarafından tazmin edilmesi için dava açmıştır.  
 Mahkeme incelemesinde, hissenin satışı sırasında satış bedelinin gerçeğe aykırı bir şekilde 100,00 TL olarak gösterildiği ve bu durumun vergi ve yasal masraflardan kaçınmak için yapıldığı belirlenmiştir.  
@@ -30,10 +30,10 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
   {{< /callout >}}
 
 > ## İçtihat Metni - Hukuk Genel Kurulu 2017/682 E. , 2021/255 K.
-
-<details>
-<summary>  Taraf İddiaları ve Yerel Mahkeme Süreci </summary>
-
+>
+> <details>
+> <summary>  Taraf İddiaları ve Yerel Mahkeme Süreci </summary>
+>
 > MAHKEMESİ: Asliye Hukuk Mahkemesi
 >
 > 1. Taraflar arasındaki “alacak” davasından dolayı yapılan yargılama sonunda, Ankara 26. Asliye Hukuk Mahkemesince verilen davanın reddine
@@ -115,9 +115,8 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >     davacının, harici satış sözleşmesi çerçevesinde ödediğini ileri
 >     sürdüğü bedelin taşınmazın tapudaki değerinden fazla olan kısmını
 >     satıcı davalıdan isteyip isteyemeyeceği noktasında toplanmaktadır.
-
-</details>
-
+>
+> </details>
 >     III. GEREKÇE
 >
 > 13. Uyuşmazlığın çözümünde öncelikle direnme kararında bahsi geçen zapta karşı tekeffül kavramının açıklanması ve ilgili yasal
