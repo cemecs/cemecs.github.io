@@ -32,7 +32,7 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 > ## İçtihat Metni - Hukuk Genel Kurulu 2017/682 E. , 2021/255 K.
 
 <details>
-<summary> ### Taraf İddiaları ve Yerel Mahkeme Süreci </summary>
+<summary>  Taraf İddiaları ve Yerel Mahkeme Süreci </summary>
 
 > MAHKEMESİ: Asliye Hukuk Mahkemesi
 >
