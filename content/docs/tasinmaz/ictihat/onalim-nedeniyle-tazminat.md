@@ -32,7 +32,7 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 > ## İçtihat Metni - Hukuk Genel Kurulu 2017/682 E. , 2021/255 K.
 >
 > <details>
-> <summary>  Taraf İddiaları ve Yerel Mahkeme Süreci </summary>
+> <summary>  Taraf İddiaları ve Yerel Mahkeme Süreci için tıklayınız. </summary>
 >
 > MAHKEMESİ: Asliye Hukuk Mahkemesi
 >
@@ -110,14 +110,17 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 > 9. Mahkemece 10.05.2016 tarihli ve 2016/179 E., 2016/209 K. sayılı kararı ile; ilk karar gerekçeleri tekrar edilmek ve zapta karşı
 >    tekeffül hükümleri açıklanmak suretiyle direnme kararı verilmiştir.
 >    Direnme Kararının Temyizi:
-> 10. Direnme kararı süresi içinde davacı vekili tarafından temyiz edilmiştir. II. UYUŞMAZLIK
+> 10. Direnme kararı süresi içinde davacı vekili tarafından temyiz edilmiştir.
+> </details>
+>
+> **II. UYUŞMAZLIK**
+>
 > 11. Direnme yolu ile Hukuk Genel Kurulu önüne gelen uyuşmazlık; ön alım hakkının kullanılması nedeniyle taşınmaz mülkiyetini kaybeden
 >     davacının, harici satış sözleşmesi çerçevesinde ödediğini ileri
 >     sürdüğü bedelin taşınmazın tapudaki değerinden fazla olan kısmını
 >     satıcı davalıdan isteyip isteyemeyeceği noktasında toplanmaktadır.
 >
-> </details>
->     III. GEREKÇE
+> **III. GEREKÇE**
 >
 > 13. Uyuşmazlığın çözümünde öncelikle direnme kararında bahsi geçen zapta karşı tekeffül kavramının açıklanması ve ilgili yasal
 >     düzenlemelere değinilmesi yerinde olacaktır.
