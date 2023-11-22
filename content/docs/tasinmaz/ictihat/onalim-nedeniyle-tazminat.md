@@ -168,7 +168,7 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >     yönelik eksik satış bedelinin bildirilmiş olmasından
 >     kaynaklanmaktadır. Başka bir anlatımla davalı sebepsiz zenginleşmemiş
 >     ve fakat davacı alıcı ön alım davası sonrası taşınmaz mülkiyetini
->     gerçek bedeli geri alamadan kaybederek fakirleşmiştir. Bu
+>     gerçek bedeli geri alamadan kaybederek fakirleşmiştir. \*\*Bu
 >     fakirleşmenin sebebi ise vergi ve masrafları daha az ödemek gibi
 >     birtakım gayelerle, haksız çıkar elde etmek amacıyla resmî belgenin
 >     düzenlenmesinde gerçeğe aykırı beyanda bulunulmasıdır. Davacının, bu
@@ -178,12 +178,15 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 > 22. Nitekim 11.05.2011 tarihli, 2011/13-173 E., 2011/291 K. sayılı kararıyla Hukuk Genel Kurulu, benzer bir uyuşmazlıkta satıcının menfi
 >     tespit talebini yerinde görmüş; zarara, Devlet aleyhine satış bedelini
 >     muvazaalı şekilde düşük gösteren alıcının sebep olduğuna ve bu sebeple
->     davacı satıcının sorumluluğuna gidilemeyeceğine hükmetmiştir.
+>     davacı satıcının sorumluluğuna gidilemeyeceğine hükmetmiştir.\*\*
 > 23. Hâl böyle olunca Yerel Mahkemece davanın reddine karar verilmesi sonuç itibariyle haklı ve yerindedir.
-> 24. Bu nedenle direnme hükmünün onanması gerekmiştir. IV. SONUÇ: Açıklanan nedenlerle; Davacı vekilinin temyiz itirazlarının reddi
->     ile hükmün ONANMASINA, Gerekli temyiz ilam harcı peşin alındığından
->     başka harç alınmasına yer olmadığına, 6100 sayılı Hukuk Muhakemeleri
->     Kanunu'nun geçici 3. maddesine göre uygulanmakta olan 1086 sayılı
->     Hukuk Usulü Muhakemeleri Kanunu'nun 440. maddesi uyarınca kararın
->     tebliğinden itibaren on beş gün içerisinde karar düzeltme yolu açık
->     olmak üzere, 11.03.2021 tarihinde oy birliği ile karar verildi.
+> 24. Bu nedenle direnme hükmünün onanması gerekmiştir.
+>
+> **IV. SONUÇ:**
+> Açıklanan nedenlerle; Davacı vekilinin temyiz itirazlarının reddi
+> ile hükmün ONANMASINA, Gerekli temyiz ilam harcı peşin alındığından
+> başka harç alınmasına yer olmadığına, 6100 sayılı Hukuk Muhakemeleri
+> Kanunu'nun geçici 3. maddesine göre uygulanmakta olan 1086 sayılı
+> Hukuk Usulü Muhakemeleri Kanunu'nun 440. maddesi uyarınca kararın
+> tebliğinden itibaren on beş gün içerisinde karar düzeltme yolu açık
+> olmak üzere, 11.03.2021 tarihinde oy birliği ile karar verildi.
