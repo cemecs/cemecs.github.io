@@ -39,7 +39,9 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 > 1. Taraflar arasındaki “alacak” davasından dolayı yapılan yargılama sonunda, Ankara 26. Asliye Hukuk Mahkemesince verilen davanın reddine
 >    ilişkin karar davacı vekilinin temyizi üzerine Yargıtay (kapatılan) 2. Hukuk Dairesince yapılan inceleme sonunda bozulmuş, Mahkemece Özel Daire bozma kararına karşı direnilmiştir.
 > 2. Direnme kararı davacı vekili tarafından temyiz edilmiştir.
-> 3. Hukuk Genel Kurulunca dosyadaki belgeler incelendikten sonra gereği görüşüldü: I. YARGILAMA SÜRECİ Davacı İstemi:
+> 3. Hukuk Genel Kurulunca dosyadaki belgeler incelendikten sonra gereği görüşüldü:
+>    **I. YARGILAMA SÜRECİ**  
+>     **Davacı İstemi:**
 > 4. Davacı vekili; müvekkilinin müşterek (paylı) mülkiyete konu 1342 parsel sayılı taşınmazda davalıya ait payı 15.07.2007 tarihli sözleşme
 >    ile 35.000,00TL bedel karşılığında satın aldığını, tapu devri
 >    gerçekleştikten sonra diğer paydaşın ön alım hakkına dayalı açtığı
@@ -51,7 +53,8 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >    yargılamayı gerektirdiğinden bahisle reddedildiğini ileri sürerek
 >    fazlaya ilişkin hakları saklı kalmak kaydıyla 1.000,00TL'nin davalıdan
 >    tahsiline karar verilmesini istemiş, bozma sonrası ıslahla talebini
->    34.900,00TL'ye yükseltmiştir. Davalı Cevabı:
+>    34.900,00TL'ye yükseltmiştir.  
+>    **Davalı Cevabı:**
 > 5. Davalı vekili; alacak iddiasının haksız ve yersiz olduğunu, davacının faiz karşılığı borç para vermekle uğraştığını, müvekkilinin
 >    zorda kalarak davacıya birtakım bedeller ödediğini ve tapu devrini
 >    gerçekleştirdiğini, tapu kayıtları incelendiğinde devrin bedelsiz
@@ -106,7 +109,7 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >    yine taleple bağlı kalınarak davanın kabulüne karar verilmesi
 >    gerekirken yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup
 >    hükmün bozulmasını gerektirir…” gerekçesi ile karar bozulmuştur.
->    Direnme Kararı:
+>    **Direnme Kararı:**
 > 9. Mahkemece 10.05.2016 tarihli ve 2016/179 E., 2016/209 K. sayılı kararı ile; ilk karar gerekçeleri tekrar edilmek ve zapta karşı
 >    tekeffül hükümleri açıklanmak suretiyle direnme kararı verilmiştir.
 >    Direnme Kararının Temyizi:
@@ -168,21 +171,12 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >     yönelik eksik satış bedelinin bildirilmiş olmasından
 >     kaynaklanmaktadır. Başka bir anlatımla davalı sebepsiz zenginleşmemiş
 >     ve fakat davacı alıcı ön alım davası sonrası taşınmaz mülkiyetini
->     gerçek bedeli geri alamadan kaybederek fakirleşmiştir. \*\*Bu
->     fakirleşmenin sebebi ise vergi ve masrafları daha az ödemek gibi
->     birtakım gayelerle, haksız çıkar elde etmek amacıyla resmî belgenin
->     düzenlenmesinde gerçeğe aykırı beyanda bulunulmasıdır. Davacının, bu
->     eyleminden dolayı yani kendi kusuru ile zarar gördüğü açıktır. Hukukun
->     temel ilkelerine göre hiç kimse kendi kusurundan kendisi lehine sonuç
->     çıkaramayacağından davacı, sebep olduğu zarara katlanmak zorundadır.
-> 22. Nitekim 11.05.2011 tarihli, 2011/13-173 E., 2011/291 K. sayılı kararıyla Hukuk Genel Kurulu, benzer bir uyuşmazlıkta satıcının menfi
->     tespit talebini yerinde görmüş; zarara, Devlet aleyhine satış bedelini
->     muvazaalı şekilde düşük gösteren alıcının sebep olduğuna ve bu sebeple
->     davacı satıcının sorumluluğuna gidilemeyeceğine hükmetmiştir.\*\*
+>     gerçek bedeli geri alamadan kaybederek fakirleşmiştir. **Bu** > **fakirleşmenin sebebi ise vergi ve masrafları daha az ödemek gibi** > **birtakım gayelerle, haksız çıkar elde etmek amacıyla resmî belgenin** > **düzenlenmesinde gerçeğe aykırı beyanda bulunulmasıdır. Davacının, bu** > **eyleminden dolayı yani kendi kusuru ile zarar gördüğü açıktır. Hukukun** > **temel ilkelerine göre hiç kimse kendi kusurundan kendisi lehine sonuç** > **çıkaramayacağından davacı, sebep olduğu zarara katlanmak zorundadır.**
+> 22. **Nitekim 11.05.2011 tarihli, 2011/13-173 E., 2011/291 K. sayılı kararıyla Hukuk Genel Kurulu, benzer bir uyuşmazlıkta satıcının menfi** > **tespit talebini yerinde görmüş; zarara, Devlet aleyhine satış bedelini** > **muvazaalı şekilde düşük gösteren alıcının sebep olduğuna ve bu sebeple** > **davacı satıcının sorumluluğuna gidilemeyeceğine hükmetmiştir.**
 > 23. Hâl böyle olunca Yerel Mahkemece davanın reddine karar verilmesi sonuç itibariyle haklı ve yerindedir.
 > 24. Bu nedenle direnme hükmünün onanması gerekmiştir.
 >
-> **IV. SONUÇ:**
+> **IV. SONUÇ:**  
 > Açıklanan nedenlerle; Davacı vekilinin temyiz itirazlarının reddi
 > ile hükmün ONANMASINA, Gerekli temyiz ilam harcı peşin alındığından
 > başka harç alınmasına yer olmadığına, 6100 sayılı Hukuk Muhakemeleri
