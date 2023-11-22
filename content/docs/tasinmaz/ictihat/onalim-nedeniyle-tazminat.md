@@ -171,8 +171,8 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >     yönelik eksik satış bedelinin bildirilmiş olmasından
 >     kaynaklanmaktadır. Başka bir anlatımla davalı sebepsiz zenginleşmemiş
 >     ve fakat davacı alıcı ön alım davası sonrası taşınmaz mülkiyetini
->     gerçek bedeli geri alamadan kaybederek fakirleşmiştir. **Bu** > **fakirleşmenin sebebi ise vergi ve masrafları daha az ödemek gibi** > **birtakım gayelerle, haksız çıkar elde etmek amacıyla resmî belgenin** > **düzenlenmesinde gerçeğe aykırı beyanda bulunulmasıdır. Davacının, bu** > **eyleminden dolayı yani kendi kusuru ile zarar gördüğü açıktır. Hukukun** > **temel ilkelerine göre hiç kimse kendi kusurundan kendisi lehine sonuç** > **çıkaramayacağından davacı, sebep olduğu zarara katlanmak zorundadır.**
-> 22. **Nitekim 11.05.2011 tarihli, 2011/13-173 E., 2011/291 K. sayılı kararıyla Hukuk Genel Kurulu, benzer bir uyuşmazlıkta satıcının menfi** > **tespit talebini yerinde görmüş; zarara, Devlet aleyhine satış bedelini** > **muvazaalı şekilde düşük gösteren alıcının sebep olduğuna ve bu sebeple** > **davacı satıcının sorumluluğuna gidilemeyeceğine hükmetmiştir.**
+>     gerçek bedeli geri alamadan kaybederek fakirleşmiştir. **Bu fakirleşmenin sebebi ise vergi ve masrafları daha az ödemek gibi birtakım gayelerle, haksız çıkar elde etmek amacıyla resmî belgenin düzenlenmesinde gerçeğe aykırı beyanda bulunulmasıdır. Davacının, bu eyleminden dolayı yani kendi kusuru ile zarar gördüğü açıktır. Hukukun temel ilkelerine göre hiç kimse kendi kusurundan kendisi lehine sonuç çıkaramayacağından davacı, sebep olduğu zarara katlanmak zorundadır.**
+> 22. **Nitekim 11.05.2011 tarihli, 2011/13-173 E., 2011/291 K. sayılı kararıyla Hukuk Genel Kurulu, benzer bir uyuşmazlıkta satıcının menfi tespit talebini yerinde görmüş; zarara, Devlet aleyhine satış bedelini muvazaalı şekilde düşük gösteren alıcının sebep olduğuna ve bu sebeple davacı satıcının sorumluluğuna gidilemeyeceğine hükmetmiştir.**
 > 23. Hâl böyle olunca Yerel Mahkemece davanın reddine karar verilmesi sonuç itibariyle haklı ve yerindedir.
 > 24. Bu nedenle direnme hükmünün onanması gerekmiştir.
 >
