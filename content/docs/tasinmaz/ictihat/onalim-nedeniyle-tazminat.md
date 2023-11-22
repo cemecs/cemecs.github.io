@@ -31,7 +31,6 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 
 > ## İçtihat Metni - Hukuk Genel Kurulu 2017/682 E. , 2021/255 K.
 
-```
 ## İçtihat Metni - Hukuk Genel Kurulu 2017/682 E., 2021/255 K.
 
 <details>
@@ -40,11 +39,10 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 > MAHKEMESİ: Asliye Hukuk Mahkemesi
 >
 > 1. Taraflar arasındaki “alacak” davasından dolayı yapılan yargılama sonunda, Ankara 26. Asliye Hukuk Mahkemesince verilen davanın reddine
->    ilişkin karar davacı vekilinin temyizi üzerine Yargıtay (kapatılan)
->    2. Hukuk Dairesince yapılan inceleme sonunda bozulmuş, Mahkemece Özel Daire bozma kararına karşı direnilmiştir.
-> 3. Direnme kararı davacı vekili tarafından temyiz edilmiştir.
-> 4. Hukuk Genel Kurulunca dosyadaki belgeler incelendikten sonra gereği görüşüldü: I. YARGILAMA SÜRECİ Davacı İstemi:
-> 5. Davacı vekili; müvekkilinin müşterek (paylı) mülkiyete konu 1342 parsel sayılı taşınmazda davalıya ait payı 15.07.2007 tarihli sözleşme
+>    ilişkin karar davacı vekilinin temyizi üzerine Yargıtay (kapatılan) 2. Hukuk Dairesince yapılan inceleme sonunda bozulmuş, Mahkemece Özel Daire bozma kararına karşı direnilmiştir.
+> 2. Direnme kararı davacı vekili tarafından temyiz edilmiştir.
+> 3. Hukuk Genel Kurulunca dosyadaki belgeler incelendikten sonra gereği görüşüldü: I. YARGILAMA SÜRECİ Davacı İstemi:
+> 4. Davacı vekili; müvekkilinin müşterek (paylı) mülkiyete konu 1342 parsel sayılı taşınmazda davalıya ait payı 15.07.2007 tarihli sözleşme
 >    ile 35.000,00TL bedel karşılığında satın aldığını, tapu devri
 >    gerçekleştikten sonra diğer paydaşın ön alım hakkına dayalı açtığı
 >    tapu iptali ve tescil davasını kazanması sonucu taşınmazın mülkiyetini
@@ -56,14 +54,14 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >    fazlaya ilişkin hakları saklı kalmak kaydıyla 1.000,00TL'nin davalıdan
 >    tahsiline karar verilmesini istemiş, bozma sonrası ıslahla talebini
 >    34.900,00TL'ye yükseltmiştir. Davalı Cevabı:
-> 6. Davalı vekili; alacak iddiasının haksız ve yersiz olduğunu, davacının faiz karşılığı borç para vermekle uğraştığını, müvekkilinin
+> 5. Davalı vekili; alacak iddiasının haksız ve yersiz olduğunu, davacının faiz karşılığı borç para vermekle uğraştığını, müvekkilinin
 >    zorda kalarak davacıya birtakım bedeller ödediğini ve tapu devrini
 >    gerçekleştirdiğini, tapu kayıtları incelendiğinde devrin bedelsiz
 >    yapıldığının anlaşılacağını, sulh hukuk mahkemesinde görülen tapu
 >    iptal davasında zaten davacıya bedel ve masrafların ödendiğini, zorla
 >    imzalatılan ön sözleşmeye dayanılarak hak iddia edilmesinin haksız
 >    olduğunu savunarak davanın reddini istemiştir. Mahkeme Kararı:
-> 7. Ankara 26. Asliye Hukuk Mahkemesinin 23.01.2014 tarihli ve 2013/107 E., 2014/28 K. sayılı kararı ile; taraflar arasındaki 15.07.2008
+> 6. Ankara 26. Asliye Hukuk Mahkemesinin 23.01.2014 tarihli ve 2013/107 E., 2014/28 K. sayılı kararı ile; taraflar arasındaki 15.07.2008
 >    tarihli harici satış sözleşmesinde davalı ...'in 1342 sayılı
 >    parseldeki payını 35.000,00TL bedelle ...'e sattığını, aynı tarihte
 >    tapuda yapılan resmî akitte 100,00TL bedelle payı devredildiğini ancak
@@ -77,8 +75,8 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >    işleminin tarafı olup kendi muvazaasına dayanamayacağı, aksi
 >    düşüncenin dürüstlük ilkesiyle bağdaşmayacağı gerekçesiyle davanın
 >    reddine karar verilmiştir. Özel Daire Bozma Kararı:
-> 8. Yerel Mahkemenin yukarıda belirtilen kararına karşı süresi içinde davacı vekili temyiz isteminde bulunmuştur.
-> 9. Yargıtay (kapatılan) 13. Hukuk Dairesinin 21.01.2016 tarihli ve 2015/38078 E., 2016/1141 K. sayılı kararı ile; “…Borçlar Kanunu m.
+> 7. Yerel Mahkemenin yukarıda belirtilen kararına karşı süresi içinde davacı vekili temyiz isteminde bulunmuştur.
+> 8. Yargıtay (kapatılan) 13. Hukuk Dairesinin 21.01.2016 tarihli ve 2015/38078 E., 2016/1141 K. sayılı kararı ile; “…Borçlar Kanunu m.
 >    237, Medeni Kanun m. 706/1, Tapu Kanunu m. 26 ve Noterlik Kanunu m.
 >    60/3,89. maddelerindeki açık düzenlemeler ile taşınmaz satışının
 >    geçerli olması sözleşmenin resmi şekilde yapılması şartına
@@ -110,15 +108,16 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >    yine taleple bağlı kalınarak davanın kabulüne karar verilmesi
 >    gerekirken yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup
 >    hükmün bozulmasını gerektirir…” gerekçesi ile karar bozulmuştur.
-> Direnme Kararı:
-> 10. Mahkemece 10.05.2016 tarihli ve 2016/179 E., 2016/209 K. sayılı kararı ile; ilk karar gerekçeleri tekrar edilmek ve zapta karşı
->     tekeffül hükümleri açıklanmak suretiyle direnme kararı verilmiştir.
->     Direnme Kararının Temyizi:
-> 11. Direnme kararı süresi içinde davacı vekili tarafından temyiz edilmiştir. II. UYUŞMAZLIK
-> 12. Direnme yolu ile Hukuk Genel Kurulu önüne gelen uyuşmazlık; ön alım hakkının kullanılması nedeniyle taşınmaz mülkiyetini kaybeden
+>    Direnme Kararı:
+> 9. Mahkemece 10.05.2016 tarihli ve 2016/179 E., 2016/209 K. sayılı kararı ile; ilk karar gerekçeleri tekrar edilmek ve zapta karşı
+>    tekeffül hükümleri açıklanmak suretiyle direnme kararı verilmiştir.
+>    Direnme Kararının Temyizi:
+> 10. Direnme kararı süresi içinde davacı vekili tarafından temyiz edilmiştir. II. UYUŞMAZLIK
+> 11. Direnme yolu ile Hukuk Genel Kurulu önüne gelen uyuşmazlık; ön alım hakkının kullanılması nedeniyle taşınmaz mülkiyetini kaybeden
 >     davacının, harici satış sözleşmesi çerçevesinde ödediğini ileri
 >     sürdüğü bedelin taşınmazın tapudaki değerinden fazla olan kısmını
 >     satıcı davalıdan isteyip isteyemeyeceği noktasında toplanmaktadır.
+
 </details>
 >     III. GEREKÇE
 > 13. Uyuşmazlığın çözümünde öncelikle direnme kararında bahsi geçen zapta karşı tekeffül kavramının açıklanması ve ilgili yasal
@@ -186,5 +185,3 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 > Hukuk Usulü Muhakemeleri Kanunu'nun 440. maddesi uyarınca kararın
 > tebliğinden itibaren on beş gün içerisinde karar düzeltme yolu açık
 > olmak üzere, 11.03.2021 tarihinde oy birliği ile karar verildi.
-
-```
