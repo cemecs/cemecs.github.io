@@ -31,10 +31,8 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 
 > ## İçtihat Metni - Hukuk Genel Kurulu 2017/682 E. , 2021/255 K.
 
-## İçtihat Metni - Hukuk Genel Kurulu 2017/682 E., 2021/255 K.
-
 <details>
-<summary> Taraf İddiaları ve Yerel Mahkeme Süreci </summary>
+<summary> ### Taraf İddiaları ve Yerel Mahkeme Süreci </summary>
 
 > MAHKEMESİ: Asliye Hukuk Mahkemesi
 >
@@ -119,7 +117,9 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >     satıcı davalıdan isteyip isteyemeyeceği noktasında toplanmaktadır.
 
 </details>
+
 >     III. GEREKÇE
+>
 > 13. Uyuşmazlığın çözümünde öncelikle direnme kararında bahsi geçen zapta karşı tekeffül kavramının açıklanması ve ilgili yasal
 >     düzenlemelere değinilmesi yerinde olacaktır.
 > 14. Zapta karşı tekeffül, satılan malın üçüncü bir kişinin iddia ettiği üstün bir hak yüzünden alıcının elinden alınmasından veya iddia
@@ -174,14 +174,14 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 >     temel ilkelerine göre hiç kimse kendi kusurundan kendisi lehine sonuç
 >     çıkaramayacağından davacı, sebep olduğu zarara katlanmak zorundadır.
 > 22. Nitekim 11.05.2011 tarihli, 2011/13-173 E., 2011/291 K. sayılı kararıyla Hukuk Genel Kurulu, benzer bir uyuşmazlıkta satıcının menfi
-> tespit talebini yerinde görmüş; zarara, Devlet aleyhine satış bedelini
-> muvazaalı şekilde düşük gösteren alıcının sebep olduğuna ve bu sebeple
-> davacı satıcının sorumluluğuna gidilemeyeceğine hükmetmiştir.
+>     tespit talebini yerinde görmüş; zarara, Devlet aleyhine satış bedelini
+>     muvazaalı şekilde düşük gösteren alıcının sebep olduğuna ve bu sebeple
+>     davacı satıcının sorumluluğuna gidilemeyeceğine hükmetmiştir.
 > 23. Hâl böyle olunca Yerel Mahkemece davanın reddine karar verilmesi sonuç itibariyle haklı ve yerindedir.
 > 24. Bu nedenle direnme hükmünün onanması gerekmiştir. IV. SONUÇ: Açıklanan nedenlerle; Davacı vekilinin temyiz itirazlarının reddi
-> ile hükmün ONANMASINA, Gerekli temyiz ilam harcı peşin alındığından
-> başka harç alınmasına yer olmadığına, 6100 sayılı Hukuk Muhakemeleri
-> Kanunu'nun geçici 3. maddesine göre uygulanmakta olan 1086 sayılı
-> Hukuk Usulü Muhakemeleri Kanunu'nun 440. maddesi uyarınca kararın
-> tebliğinden itibaren on beş gün içerisinde karar düzeltme yolu açık
-> olmak üzere, 11.03.2021 tarihinde oy birliği ile karar verildi.
+>     ile hükmün ONANMASINA, Gerekli temyiz ilam harcı peşin alındığından
+>     başka harç alınmasına yer olmadığına, 6100 sayılı Hukuk Muhakemeleri
+>     Kanunu'nun geçici 3. maddesine göre uygulanmakta olan 1086 sayılı
+>     Hukuk Usulü Muhakemeleri Kanunu'nun 440. maddesi uyarınca kararın
+>     tebliğinden itibaren on beş gün içerisinde karar düzeltme yolu açık
+>     olmak üzere, 11.03.2021 tarihinde oy birliği ile karar verildi.
