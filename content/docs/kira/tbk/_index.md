@@ -5,4 +5,4 @@ sidebar:
   open: false
 ---
 
-Bu bölümde 5237 Sayılı Türk Ceza Kanunu maddeleri bulunmaktadır.
+Bu bölümde 6098 Sayılı Türk Borçlar Kanunu'nun kira ile ilgili maddeleri bulunmaktadır.
