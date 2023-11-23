@@ -1,8 +1,6 @@
 ---
 title: "Dava Sonuçlanmadan Taşınmazın Tahliyesi Durumunda Yargılama Giderleri hk."
-type: docs
 date: 2023-11-24
-draft: false
 ---
 
 {{< callout type="info" >}}
