@@ -4,13 +4,13 @@ date: 2023-11-24
 ---
 
 {{< callout type="info" >}}
-**Karar No:** Yargıtay 3. Hukuk Dairesi 2022/3662 E., 2022/5277 K.
+**Karar No:** Yargıtay 3. H.D. 2022/3662 E., 2022/5277 K.  
 {{< /callout >}}
 
 ## Karar Özeti
 
-{{< callout type="warning" >}}
-Bu özet, Yargıtay'ın tahliye davasıyla ilgili verdiği kararın genel bir özetini içermektedir. Detaylı bilgi ve hukuki analiz için sayfa sonunda bulunan tam karar metnini inceleyiniz.
+{{< callout type="warning" >}}  
+Bu özet, Yargıtay'ın tahliye davasıyla ilgili verdiği kararın genel bir özetini içermektedir. Detaylı bilgi ve hukuki analiz için sayfa sonunda bulunan tam karar metnini inceleyiniz.  
 {{< /callout >}}
 
 Bu davada, TBK madde 347 kapsamında bir tahliye talebi ele alınmıştır. Ancak, dava süreci devam ederken davalı tarafın taşınmazı boşalttığı ve anahtarını notere bıraktığı görülmüştür. Bu durumda dava konusuz kalmıştır.
@@ -21,13 +21,12 @@ Yargıtay 3. Hukuk Dairesi, HMK madde 331 uyarınca, **davanın konusuz kalması
 **İlgili Yasal Düzenlemeler:**
 
 - Türk Borçlar Kanunu Madde 347
-- Hukuk Muhakemeleri Kanunu Madde 331
+- Hukuk Muhakemeleri Kanunu Madde 331  
   {{< /callout >}}
 
 > ## İçtihat Metni - Yargıtay 3. HD 2022/3662 E. , 2022/5277 K.
 >
-> "İçtihat Metni"
-> MAHKEMESİ : İSTANBUL BÖLGE ADLİYE MAHKEMESİ 49. HUKUK DAİRESİ
+> MAHKEMESİ : İSTANBUL BÖLGE ADLİYE MAHKEMESİ 49. HUKUK DAİRESİ  
 > VEK.
 >
 > Taraflar arasında ilk derece mahkemesinde görülen tahliye davasının kabulüne dair verilen karar hakkında bölge adliye mahkemesi tarafından yapılan istinaf incelemesi sonucunda; davalı tarafın istinaf başvurusunun esastan reddine yönelik olarak verilen karar, davalı vekili tarafından duruşma talepli olarak temyiz edilmiş isede; davanın niteliği gereği duruşma isteğinin reddiyle süresinde olduğu anlaşılan temyiz isteğinin incelemesinin evrak üzerinde yapılmasına karar verildikten sonra, dosya içerisindeki bütün kağıtlar okunup gereği düşünüldü:
