@@ -26,7 +26,7 @@ Alıcının uğradığı zarar, vergi ve masraflardan kaçınma amacıyla yapıl
 **İlgili Yasal Düzenlemeler:**
 
 - 6098 sayılı Türk Borçlar Kanunu Madde 237
-- [6098 sayılı Türk Borçlar Kanunu Madde 240](/docs/tasinmaz/tbk/md-240-242.md)
+- [6098 sayılı Türk Borçlar Kanunu Madde 240](/docs/tasinmaz/tbk/md-240-242)
   {{< /callout >}}
 
 > ## İçtihat Metni - Hukuk Genel Kurulu 2017/682 E. , 2021/255 K.
