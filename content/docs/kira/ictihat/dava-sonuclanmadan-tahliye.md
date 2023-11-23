@@ -3,7 +3,7 @@ title: "Dava Sonuçlanmadan Taşınmazın Tahliyesi Durumunda Yargılama Giderle
 date: 2023-11-24
 ---
 
-{{< callout type="info" >}}
+{{< callout type="info" >}}  
 **Karar No:** Yargıtay 3. H.D. 2022/3662 E., 2022/5277 K.  
 {{< /callout >}}
 
