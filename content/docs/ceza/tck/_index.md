@@ -1,5 +1,5 @@
 ---
-title: Türk Ceza Kanunu
+title: 5237 Sayılı Türk Ceza Kanunu
 type: docs
 prev: docs/ceza/
 next: docs/ceza/ictihat

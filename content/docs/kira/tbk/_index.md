@@ -1,5 +1,5 @@
 ---
-title: Türk Borçlar Kanunu (Kiraya ilişkin hükümler)
+title: 6098 Sayılı Türk Borçlar Kanunu (Kiraya ilişkin hükümler)
 type: docs
 sidebar:
   open: false
