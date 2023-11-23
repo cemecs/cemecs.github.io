@@ -2,6 +2,7 @@
 title: "Dava Sonuçlanmadan Taşınmazın Tahliyesi Durumunda Yargılama Giderleri hk."
 type: docs
 date: 2023-11-24
+draft: false
 ---
 
 {{< callout type="info" >}}
@@ -25,7 +26,7 @@ Yargıtay 3. Hukuk Dairesi, HMK madde 331 uyarınca, **davanın konusuz kalması
 - Hukuk Muhakemeleri Kanunu Madde 331
   {{< /callout >}}
 
-> ## İçtihat Metni - Yargıtay X. HD X/X E. , X/X K.
+> ## İçtihat Metni - Yargıtay 3. HD 2022/3662 E. , 2022/5277 K.
 >
 > "İçtihat Metni"
 > MAHKEMESİ : İSTANBUL BÖLGE ADLİYE MAHKEMESİ 49. HUKUK DAİRESİ
