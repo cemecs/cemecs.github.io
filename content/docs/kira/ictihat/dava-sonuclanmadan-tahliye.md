@@ -1,7 +1,6 @@
 ---
 title: "Dava Sonuçlanmadan Taşınmazın Tahliyesi Halinde Yargılama Giderleri"
 date: 2023-11-23
-lastmod: 2023-11-25
 ---
 
 {{< callout type="info" >}}  
