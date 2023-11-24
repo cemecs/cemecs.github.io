@@ -1,5 +1,5 @@
 ---
-title: "Önalım Hakkı Nedeniyle Mülkiyeti Kaybeden Alıcının Tazminat Talebi Hk."
+title: "Önalım Hakkı Nedeniyle Mülkiyeti Kaybeden Alıcının Tazminat Talebi"
 date: "2023-11-22"
 draft: false
 ---

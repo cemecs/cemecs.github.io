@@ -1,5 +1,5 @@
 ---
-title: "Dava Sonuçlanmadan Taşınmazın Tahliyesi Halinde Yargılama Giderleri hk."
+title: "Dava Sonuçlanmadan Taşınmazın Tahliyesi Halinde Yargılama Giderleri"
 date: 2023-11-24
 ---
 
