@@ -1,5 +1,5 @@
 ---
-title: "Apartman Yöneticisinin Sözleşme Yapma Yetkisi hk."
+title: "Apartman Yöneticisinin Sözleşme Yapma Yetkisi"
 date: 2023-11-21
 ---
 
