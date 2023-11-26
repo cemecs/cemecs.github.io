@@ -20,7 +20,7 @@ Yargıtay 3. Hukuk Dairesi, HMK madde 331 uyarınca, **davanın konusuz kalması
 {{< callout emoji="📖" >}}
 **İlgili Yasal Düzenlemeler:**
 
-- Türk Borçlar Kanunu Madde 347
+- [Türk Borçlar Kanunu Madde 347](/docs/kira/tbk/md-347-349)
 - Hukuk Muhakemeleri Kanunu Madde 331  
   {{< /callout >}}
 
