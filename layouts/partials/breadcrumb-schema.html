@@ -4,7 +4,7 @@
     "@type": "BreadcrumbList",
     "itemListElement": [
       {{- $len := len .Ancestors -}}
-      {{- range $index, $element := .Ancestors -}}
+      {{- range $index, $element := .Ancestors.Reverse -}}
       {
         "@type": "ListItem",
         "position": {{ add $index 1 }},
