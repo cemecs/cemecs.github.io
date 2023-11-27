@@ -4,32 +4,24 @@
     "@type": "BreadcrumbList",
     "itemListElement": [
       {{- $len := len .Ancestors -}}
-      {{- $first := true -}}
       {{- range $index, $element := .Ancestors -}}
-        {{- if not $element.IsHome -}}
-          {{- if not $first -}},{{ end -}}
-          {
-            "@type": "ListItem",
-            "position": {{ add $index 1 }},
-            "item": {
-              "@id": "{{ $element.Permalink }}",
-              "name": "{{ $element.LinkTitle }}"
-            }
-          }
-          {{- $first = false -}}
-        {{- end -}}
-      {{- end -}}
-      {{- if gt $len 0 -}}
-        {{- if not $first -}},{{ end -}}
-        {
-          "@type": "ListItem",
-          "position": {{ add $len 1 }},
-          "item": {
-            "@id": "{{ .Permalink }}",
-            "name": "{{ .LinkTitle }}"
-          }
+      {
+        "@type": "ListItem",
+        "position": {{ add $index 1 }},
+        "item": {
+          "@id": "{{ $element.Permalink }}",
+          "name": "{{ $element.LinkTitle }}"
         }
+      }{{ if lt $index (sub $len 1) }},{{ end }}
       {{- end -}}
+      {
+        "@type": "ListItem",
+        "position": {{ add $len 1 }},
+        "item": {
+          "@id": "{{ .Permalink }}",
+          "name": "{{ .LinkTitle }}"
+        }
+      }
     ]
   }
 </script>
