@@ -16,7 +16,7 @@ draft: false
 Bu özet, Yargıtay 11. Ceza Dairesinin 2016/6461 Esas, 2019/4350 Karar sayılı kararının genel bir özetini içermektedir. Detaylı bilgi için sayfa sonunda bulunan tam karar metnini inceleyiniz.
 {{< /callout >}}
 
-Olayda hastaya herhangi bir muayene yapılmadan doktor tarafından reçete düzenlenmiştir. Hukuka aykırı olan bu eylemle alakalı dolandırıcılık, sahtecilik ve görevi kötüye kullanma suçları araştırılarak yalnızca görevi kötüye kullanma suçunun oluştuğuna karar verilmiştir.
+Olayda hastaya herhangi bir muayene yapılmadan doktor tarafından reçete düzenlenmiştir. Hukuka aykırı olan bu eylemle alakalı dolandırıcılık, sahtecilik ve görevi kötüye kullanma suçları araştırılarak suçun görevi kötüye kullanma kapsamında kaldığına karar verilmiştir.
 
 {{< callout emoji="📖" >}}
 **İlgili Mevzuat:**
