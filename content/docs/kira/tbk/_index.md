@@ -3,7 +3,7 @@ title: 6098 Sayılı Türk Borçlar Kanunu (Kiraya ilişkin hükümler)
 type: docs
 sidebar:
   open: false
-lastmod: 2023-11-26
+lastmod: 2023-12-07
 ---
 
 Bu bölümde 6098 Sayılı Türk Borçlar Kanunu'nun kira ile ilgili maddeleri bulunmaktadır.
