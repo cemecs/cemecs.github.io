@@ -10,4 +10,5 @@ Bu bölümde 6098 Sayılı Türk Borçlar Kanunu'nun kira ile ilgili maddeleri b
 
 {{< cards >}}
 {{< card link="md-347-349" title="Madde 347 348 349 - Konut ve Çatılı İşyeri Kiralarında Sözleşmenin Bildirim Yoluyla Sona Ermesi" icon="book-open" >}}
+{{< card link="md-344" title="Madde 344 - Kira Bedelinin Belirlenmesi" icon="book-open" >}}
 {{< /cards >}}

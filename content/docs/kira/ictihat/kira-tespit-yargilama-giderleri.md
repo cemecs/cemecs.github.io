@@ -39,7 +39,7 @@ Bu değerlendirmeler ışığında, Yargıtay kararı hem davacının hem de dav
 {{< callout emoji="📖" >}}
 **İlgili Yasal Düzenlemeler:**
 
-- Türk Borçlar Kanunu Madde 344
+- [6098 Sayılı Türk Borçlar Kanunu Madde 344](/docs/kira/tbk/md-344)
 - Hukuk Muhakemeleri Kanunu Madde 332
   {{< /callout >}}
 
