@@ -12,5 +12,5 @@ Bu bölümde Ceza Hukukuna ilişkin emsal mahkeme kararlarını bulabilirsiniz.
 {{< cards >}}
 {{< card link="/docs/ceza/ictihat/adli-arama-karari-alinmamasi" title="Adli Arama Kararı Olmadan Elde Edilen Uyuşturucu Madde hk." icon="book-open" >}}
 {{< card link="/docs/ceza/ictihat/muayene-olmadan-recete" title="Muayene Yapılmadan Reçete Düzenlenmesi" icon="book-open" >}}
-{{< card link="/docs/ceza/ictihat/ev-sahibi-adina-sozlesme-duzenlenmesi" title="Ev Sahibi Adına Sahte Sözleşme Düzenlenmesi" icon="book-open" >}}
+{{< card link="/docs/ceza/ictihat/ev-sahibi-adina-sozlesme-duzenlenmesi" title="Ev Sahibi Adına Sahte İmza Atılarak Abonelik Sözleşmesi Düzenlenmesi" icon="book-open" >}}
 {{< /cards >}}
