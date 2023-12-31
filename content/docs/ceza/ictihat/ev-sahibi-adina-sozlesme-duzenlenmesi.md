@@ -31,8 +31,7 @@ Ayrıca, diğer sanığın, **katılanın rızası olduğu yönünde ilk sanığ
 "İçtihat Metni"  
 MAHKEMESİ :Asliye Ceza Mahkemesi  
 SUÇ : Özel belgede sahtecilik  
-HÜKÜM : Beraat
-
+HÜKÜM : Beraat  
 A)Sanık ... hakkında "özel belgede sahtecilik" suçundan kurulan beraat hükmüne karşı katılan vekilinin temyiz itirazlarının incelenmesinde;
 Yüklenen suçun yasal unsurları itibarıyla oluşmadığı dosya içeriğine uygun şekilde gerekçeleri gösterilerek mahkemece kabul ve takdir kılınmış olduğundan, katılan vekilinin yerinde görülmeyen temyiz itirazlarının reddiyle hükmün ONANMASINA,  
 B)Sanık ... hakkında "özel belgede sahtecilik" suçundan kurulan beraat hükmüne karşı katılan vekilinin temyiz itirazlarının incelenmesinde;
