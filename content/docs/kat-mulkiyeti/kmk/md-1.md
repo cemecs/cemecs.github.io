@@ -1,5 +1,5 @@
 ---
-title: "KMK m. 1 - Genel Kural"
+title: "KMK m. 1 Genel Kural"
 date: "2023-12-31"
 draft: false
 weight: 1
@@ -10,10 +10,10 @@ weight: 1
 {{< callout type="info" >}}
 Bu bölümde 634 Sayılı Kat Mülkiyeti Kanunu'nun genel kuralına ilişkin 1. madde detayları sunulmaktadır.
 
-- Kanunun [**1. maddesi**](#kmk-madde-1---genel-kural), kat mülkiyeti haklarının nasıl kurulabileceğini açıklamaktadır.  
+- Kanunun [**1. maddesi**](#kat-mülkiyeti-kanunu-madde-1), kat mülkiyeti haklarının nasıl kurulabileceğini açıklamaktadır.  
   {{< /callout >}}
 
-## KMK Madde 1 - Genel Kural
+## Kat Mülkiyeti Kanunu Madde 1
 
 Tamamlanmış bir yapının kat, daire, iş bürosu, dükkan, mağaza, mahzen, depo gibi bölümlerinden ayrı ayrı ve başlı başına kullanılmaya elverişli olanları üzerinde, o gayrimenkulün maliki veya ortak malikleri tarafından, bu Kanun hükümlerine göre, bağımsız mülkiyet hakları kurulabilir.
 
