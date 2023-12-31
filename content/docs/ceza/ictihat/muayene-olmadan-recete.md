@@ -1,6 +1,7 @@
 ---
 title: "Muayene Yapılmadan Reçete Düzenlenmesi"
 date: "2023-12-01"
+lastmod: 2023-12-31
 draft: false
 ---
 
@@ -22,7 +23,7 @@ Olayda hastaya herhangi bir muayene yapılmadan doktor tarafından reçete düze
 **İlgili Mevzuat:**
 
 - Türk Ceza Kanunu (TCK) Madde 158
-- Türk Ceza Kanunu (TCK) Madde 204
+- [Türk Ceza Kanunu (TCK) Madde 204](/docs/ceza/tck/md-204-205-206)
 - [Türk Ceza Kanunu (TCK) Madde 257](/docs/ceza/tck/md-257)
   {{< /callout >}}
 
