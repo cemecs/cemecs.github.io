@@ -1,5 +1,5 @@
 ---
-title: "Ev Sahibi Adına Sahte İmza Atılarak Abonelik Sözleşmesi Yapılması"
+title: "Ev Sahibi Adına Sahte İmza Atılarak Abonelik Sözleşmesi Düzenlenmesi"
 date: "2023-12-31"
 draft: false
 ---
@@ -23,7 +23,7 @@ Ayrıca, diğer sanığın, **katılanın rızası olduğu yönünde ilk sanığ
 {{< callout emoji="📖" >}}
 **İlgili Mevzuat:**
 
-- 5237 Sayılı Türk Ceza Kanunu (TCK) Madde 207
+- [5237 Sayılı Türk Ceza Kanunu (TCK) Madde 207](/docs/ceza/tck/md-207-208)
   {{< /callout >}}
 
 ## İçtihat Metni - Yargıtay 11. CD 2016/11975 E. 2018/4841 K.
