@@ -1,7 +1,7 @@
 ---
 title: "KMK m. 3 Kat Mülkiyetinin ve Kat Irtifakının Niteliği"
 date: "2023-12-31"
-draft: false
+draft: yes
 weight: 3
 ---
 

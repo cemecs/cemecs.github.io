@@ -1,7 +1,7 @@
 ---
 title: "KMK m. 2 Tanımlar"
 date: "2023-12-31"
-draft: false
+draft: yes
 weight: 2
 ---
 
@@ -13,7 +13,7 @@ Bu bölümde 634 Sayılı Kat Mülkiyeti Kanunu'nun tanım ve terimlerine ilişk
 - Kanunun [**2. maddesi**](#kat-mülkiyeti-kanunu-madde-2), kat mülkiyeti kavramları ve terimlerini tanımlamaktadır.
   {{< /callout >}}
 
-## Kat Mülkiyeti Kanunu Madde 2  
+## Kat Mülkiyeti Kanunu Madde 2
 
 ### Tarifler
 

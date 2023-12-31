@@ -1,7 +1,7 @@
 ---
 title: "KMK m. 1 Genel Kural"
 date: "2023-12-31"
-draft: false
+draft: yes
 weight: 1
 ---
 
