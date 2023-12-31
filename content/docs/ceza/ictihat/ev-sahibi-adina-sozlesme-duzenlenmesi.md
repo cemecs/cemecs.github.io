@@ -10,8 +10,6 @@ draft: false
 **Hüküm:** Beraat/Bozma
 {{< /callout >}}
 
-## Karar Özeti
-
 {{< callout type="warning" >}}
 Bu özet, Yargıtay 11. Ceza Dairesinin 2016/11975 Esas, 2018/4841 Karar sayılı kararının genel bir özetini içermektedir. Detaylı bilgi için sayfa sonunda bulunan tam karar metnini inceleyiniz.
 {{< /callout >}}
@@ -19,8 +17,10 @@ Bu özet, Yargıtay 11. Ceza Dairesinin 2016/11975 Esas, 2018/4841 Karar sayıl�
 {{< callout emoji="📖" >}}
 **İlgili Mevzuat:**
 
-- 6098 Sayılı Türk Ceza Kanunu (TCK) Madde 207
+- 5237 Sayılı Türk Ceza Kanunu (TCK) Madde 207
   {{< /callout >}}
+
+  ## Karar Özeti
 
 Kararda, "özel belgede sahtecilik" suçlamasıyla yargılanan sanığın beraatine karar verilmiştir. Sanığın, kiraladığı konutta abonelikler için katılanın bilgisi dahilinde kira sözleşmesini düzenlediği ve katılanın yerine imza attığı tespit edilmiştir. Ancak, sanığın bu eylemini katılanın rızası olduğu yanılgısı altında gerçekleştirdiği, bu nedenle suçun yasal unsurlarının oluşmadığı belirtilmiştir. Mahkeme, bu sebeplerden dolayı sanığın beraatına hükmetmiştir.
 
