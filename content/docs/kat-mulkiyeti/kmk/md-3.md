@@ -1,5 +1,5 @@
 ---
-title: "Kat Mülkiyeti Kanunu Madde 3 - Kat Mülkiyetinin ve Kat Irtifakının Niteliği"
+title: "KMK m. 3 Kat Mülkiyetinin ve Kat Irtifakının Niteliği"
 date: "2023-12-31"
 draft: false
 weight: 3
