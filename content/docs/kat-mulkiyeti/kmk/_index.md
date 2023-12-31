@@ -14,6 +14,7 @@ Bu bölümde 634 sayılı Kat Mülkiyeti Kanunu maddeleri bulunmaktadır.
 {{< cards >}}
 {{< card link="md-1" title="Madde 1 - Kat Mülkiyetinin Kurulması" icon="book-open" >}}
 {{< card link="md-2" title="Madde 2 - Tanımlar" icon="book-open" >}}
+{{< card link="md-3" title="Madde 3 - Kat Mülkiyetinin ve Kat Irtifakının Niteliği" icon="book-open" >}}
 {{< card link="md-20" title="Madde 20 - Kat Maliklerinin Giderlere Katılması" icon="book-open" >}}
 {{< card link="md-22" title="Madde 22 - Ortak Giderlerin Teminatı" icon="book-open" >}}
 {{< card link="md-32" title="Madde 32 - Kat Malikleri Kurulu Kararları" icon="book-open" >}}

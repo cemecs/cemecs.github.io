@@ -10,10 +10,12 @@ weight: 2
 {{< callout type="info" >}}
 Bu bölümde 634 Sayılı Kat Mülkiyeti Kanunu'nun tanım ve terimlerine ilişkin 2. madde detayları sunulmaktadır.
 
-- Kanunun [**2. maddesi**](#kat-mülkiyeti-kanunu-madde-2---tarifler), kat mülkiyeti kavramları ve terimlerini tanımlamaktadır.
+- Kanunun [**2. maddesi**](#kat-mülkiyeti-kanunu-madde-2), kat mülkiyeti kavramları ve terimlerini tanımlamaktadır.
   {{< /callout >}}
 
-## Kat Mülkiyeti Kanunu Madde 2 - Tarifler
+## Kat Mülkiyeti Kanunu Madde 2  
+
+### Tarifler
 
 Bu Kanuna göre:  
 a) Kat mülkiyetine konu olan gayrimenkulün bütününe (**Anagayrimenkul**);  
