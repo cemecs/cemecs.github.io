@@ -1,5 +1,5 @@
 ---
-title: Hakkımda
+title: Av. Ali Cem Şener - Hakkımda
 type: about
 ---
 
