@@ -10,9 +10,9 @@ weight: 1
 {{< callout type="info" >}}
 Bu bölümde Konutların Turizm Amaçlı Kiralanması Faaliyetlerinin Düzenlenmesine İlişkin Yönetmelik bulunmaktadır.
 
-- Yönetmeliğin amaç, dayanak, kapsam gibi temel unsurları [**birinci bölüm**](#bi̇ri̇nci̇-bölüm-başlangıç-hükümleri)de açıklanmaktadır.
-- Turizm amaçlı kiralama izin belgesi ile ilgili işlemler ve başvuruya ilişkin kısımlar [**ikinci bölüm**](#i̇ki̇nci̇-bölüm-i̇zin-belgesi-i̇şlemleri)de açıklanmaktadır.
-- Turizm amaçlı kiralama iznine ilişkin ev sahiplerinin yükümlülükleri ve konutların taşıması gereken niteliklere ilişkin hususlar [**üçüncü bölüm**](#üçüncü-bölüm-konutların-nitelikleri-ve-i̇zin-belgesi-sahibinin-yükümlülükleri)de açıklanmaktadır.
+- Yönetmeliğin amaç, dayanak, kapsam gibi temel unsurları [**birinci bölüm**](#birinci-bölüm-başlangıç-hükümleri)de açıklanmaktadır.
+- Turizm amaçlı kiralama izin belgesi ile ilgili işlemler ve başvuruya ilişkin kısımlar [**ikinci bölüm**](#ikinci-bölüm-izin-belgesi-işlemleri)de açıklanmaktadır.
+- Turizm amaçlı kiralama iznine ilişkin ev sahiplerinin yükümlülükleri ve konutların taşıması gereken niteliklere ilişkin hususlar [**üçüncü bölüm**](#üçüncü-bölüm-konutların-nitelikleri-ve-izin-belgesi-sahibinin-yükümlülükleri)de açıklanmaktadır.
   {{< /callout >}}
 
 ## KONUTLARIN TURİZM AMAÇLI KİRALANMASI FAALİYETLERİNİN DÜZENLENMESİNE İLİŞKİN YÖNETMELİK
