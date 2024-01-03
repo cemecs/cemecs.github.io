@@ -1,5 +1,5 @@
 ---
-title: İlgili Yönetmelikler
+title: Yönetmelikler
 type: docs
 sidebar:
   open: false
