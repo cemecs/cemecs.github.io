@@ -12,7 +12,10 @@ Bu bölümde Tarım Arazilerinin Korunması, Kullanılması ve Planlanmasına Da
 
 - Yönetmeliğin amaç, dayanak, kapsam gibi temel unsurları [**birinci bölüm**](#birinci-bölüm---amaç-kapsam-dayanak-ve-tanımlar)de açıklanmaktadır.
 - Toprak Koruma Kurulunun görevleri ve çalışmasına ilişkin esaslar [**ikinci bölüm**](#ikinci-bölüm---toprak-koruma-kurulunun-teşekkülü-görevleri-çalışma-usul-ve-esasları)de açıklanmaktadır.
-- Turizm amaçlı kiralama iznine ilişkin ev sahiplerinin yükümlülükleri ve konutların taşıması gereken niteliklere ilişkin hususlar [**üçüncü bölüm**](#üçüncü-bölüm-konutların-nitelikleri-ve-izin-belgesi-sahibinin-yükümlülükleri)de açıklanmaktadır.
+- Arazi kullanım planları ve toprak koruma projesine ilişkin hususlar [**üçüncü bölüm**](#üçüncü-bölüm---toprak-ve-arazi-varlığının-belirlenmesi-arazi-kullanım-planları-ile-toprak-koruma-projeleri)de açıklanmaktadır.
+- Tarım arazilerinin tarım dışı kullanımına ilişkin esaslar [**dördüncü bölüm**](#dördüncü-bölüm---tarım-arazilerinin-tarımsal-veya-tarım-dışı-amaçlarla-kullanım-esasları)de açıklanmaktadır.
+- Büyük ovaların belirlenmesi ve esasları [**beşinci bölüm**](#beşinci-bölüm---büyük-ovaların-belirlenmesi-ve-uygulamalar)de açıklanmaktadır.
+- Erozyona duyarlı alanların belirlenmesi ve korunmasına ilişkin hususlar [**altıncı bölüm**](#altinci-bölüm---erozyona-duyarlı-alanların-belirlenmesi-ve-korunması)de açıklanmaktadır.
   {{< /callout >}}
 
 ## TARIM ARAZİLERİNİN KORUNMASI, KULLANILMASI VE PLANLANMASINA DAİR YÖNETMELİK
