@@ -1,7 +1,7 @@
 ---
 title: "Sit Alanlarında Yapı Kayıt Belgesinin Hukuki Geçerliliği"
 date: "2022-10-27"
-draft: false
+draft: true
 ---
 
 18 Mayıs 2018 tarih ve 30245 sayılı Resmi Gazete’de yayımlanan 7143 sayılı Kanun’un 16. Maddesi ile 3194 sayılı İmar Kanunu’nda değişiklik yapılarak imar barışı olarak bilinen Yapı Kayıt Belgesi kavramı hukukumuza girmiştir.
