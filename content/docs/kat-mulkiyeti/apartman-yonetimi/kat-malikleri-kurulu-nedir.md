@@ -1,3 +1,9 @@
+---
+title: "Kat Malikleri Kurulu ve Toplantılar"
+date: "2024-05-12"
+draft: false
+weight: 2
+---
 
 ## Kat Malikleri Kurulu Nedir, Görevleri Nelerdir?
 
