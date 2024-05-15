@@ -4,8 +4,6 @@ date: "2024-05-14"
 draft: false
 ---
 
-# KONUTLARIN TURİZM AMAÇLI KİRALANMASI FAALİYETLERİNİN DÜZENLENMESİNE İLİŞKİN YÖNETMELİK
-
 ## BİRİNCİ BÖLÜM
 ### Başlangıç Hükümleri
 
