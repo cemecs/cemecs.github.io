@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>34 SN 1062 - BMW 530i Servis Raporu ve Mütalaa</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Chosen Palette: Analyst Blue -->
+    <!-- Application Structure Plan: Kullanıcının temel sorununa (motor arızası) doğrudan yanıt vermek amacıyla 3 sekmeli bir yapı tasarlandı. 1) 'Özet & Mütalaa' sayfası, mevcut durumu ve uzman görüşünü anında sunar. Bu, en acil bilgi ihtiyacını karşılar. 2) 'Servis Zaman Tüneli', geçmiş olayları kronolojik olarak ve interaktif bir şekilde keşfetme imkanı tanır, böylece kullanıcı geçmişle bugün arasında bağlantı kurabilir. 3) 'Bakım Analizi', verileri grafiklerle görselleştirerek (KM artışı, servis türleri, kritik parça durumu) genel bakım profili hakkında net bir tablo çizer ve özellikle eksik olan kritik bakımı (su pompası) vurgular. Bu yapı, kullanıcının karmaşık servis verilerini kolayca anlamasını ve adım adım detaya inmesini sağlar. -->
+    <!-- Visualization & Content Choices: 
+        - Rapor Bilgisi: Mevcut motor arızası ve genel durum. -> Goal: Anında bilgilendirme, uzman görüşü sunma. -> Viz/Presentation: Metin tabanlı kartlar, ikonlar. -> Interaction: Yok (statik bilgi). -> Justification: Kullanıcının en acil sorusuna hızlı ve net bir yanıt verir. -> Library/Method: HTML/Tailwind.
+        - Rapor Bilgisi: Tüm servis kayıtları. -> Goal: Kronolojik geçmişi gösterme. -> Viz/Presentation: Dikey zaman tüneli. -> Interaction: Tıklayınca detayları gösteren açılır kartlar. -> Justification: Statik bir tablo yerine, zaman içindeki ilerlemeyi görsel olarak daha çekici ve anlaşılır kılar. -> Library/Method: HTML/Tailwind/JS.
+        - Rapor Bilgisi: Servis KM ve tarihleri. -> Goal: Aracın kullanım yoğunluğunu gösterme. -> Viz/Presentation: Çizgi grafiği (KM vs. Yıl). -> Interaction: Hover ile detay görme. -> Justification: Kilometre artış trendini bir bakışta anlaşılır kılar. -> Library/Method: Chart.js/Canvas.
+        - Rapor Bilgisi: Servis işlem tipleri. -> Goal: Yapılan bakım türlerinin oranını gösterme. -> Viz/Presentation: Donut grafiği. -> Interaction: Hover ile detay görme. -> Justification: Bakım harcamalarının nereye odaklandığını (periyodik, mekanik vs.) basitçe özetler. -> Library/Method: Chart.js/Canvas.
+        - Rapor Bilgisi: Kritik parçaların değişim durumu. -> Goal: Önemli bir eksikliği vurgulamak. -> Viz/Presentation: Onay/Red durum ikonları listesi. -> Interaction: Yok (statik). -> Justification: Su pompasının değiştirilmediği kritik bilgisini en direkt ve dikkat çekici şekilde sunar. -> Library/Method: HTML/Tailwind.
+    -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f8f9fa; }
+        .nav-link { transition: all 0.3s; }
+        .nav-link.active { border-color: #3b82f6; color: #3b82f6; background-color: #eff6ff; }
+        .timeline-item { border-left: 3px solid #d1d5db; }
+        .timeline-item:last-child { border-left: 3px solid transparent; }
+        .timeline-dot { position: absolute; left: -10.5px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; background-color: white; border: 4px solid #d1d5db; border-radius: 50%; }
+        .timeline-item-content:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1); }
+        .chart-container { position: relative; width: 100%; max-width: 600px; margin-left: auto; margin-right: auto; height: 300px; max-height: 400px; }
+        @media (min-width: 768px) { .chart-container { height: 350px; } }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8">
+        
+        <header class="bg-white rounded-xl shadow-md p-6 mb-8">
+            <div class="flex flex-col md:flex-row justify-between items-start md:items-center">
+                <div>
+                    <h1 class="text-3xl font-bold text-gray-900">BMW G30 530i xDrive</h1>
+                    <p class="text-lg text-gray-600">34 SN 1062 - Servis Raporu ve Teknik Mütalaa</p>
+                </div>
+                <div class="text-left md:text-right mt-4 md:mt-0 text-sm">
+                    <p><span class="font-semibold">Şasi:</span> WBAJA7104HWC03474</p>
+                    <p><span class="font-semibold">Üretim Tarihi:</span> 01.06.2017</p>
+                    <p><span class="font-semibold">Tescil Tarihi:</span> 05.10.2017</p>
+                </div>
+            </div>
+        </header>
+
+        <nav class="mb-8">
+            <div class="flex justify-center border-b border-gray-200">
+                <button data-tab="tab-summary" class="nav-link py-4 px-6 font-semibold text-gray-600 border-b-2 border-transparent hover:border-blue-500 hover:text-blue-500 active">Özet & Mütalaa</button>
+                <button data-tab="tab-timeline" class="nav-link py-4 px-6 font-semibold text-gray-600 border-b-2 border-transparent hover:border-blue-500 hover:text-blue-500">Servis Zaman Tüneli</button>
+                <button data-tab="tab-analysis" class="nav-link py-4 px-6 font-semibold text-gray-600 border-b-2 border-transparent hover:border-blue-500 hover:text-blue-500">Bakım Analizi</button>
+            </div>
+        </nav>
+
+        <main>
+            <section id="tab-summary" class="tab-content">
+                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
+                    <div class="bg-blue-50 border-l-4 border-blue-500 text-blue-800 p-6 rounded-lg shadow-sm">
+                        <h3 class="text-lg font-semibold mb-2 flex items-center"><span class="text-2xl mr-3">!</span>Mevcut Durum</h3>
+                        <p>Araç, 213.965 KM'de motor tahrik uyarısı ile servise çekiciyle gelmiştir. Yapılan ilk tespitlerde 2. silindirde kompresyon olmadığı belirlenmiştir.</p>
+                    </div>
+                    <div class="bg-green-50 border-l-4 border-green-500 text-green-800 p-6 rounded-lg shadow-sm">
+                        <h3 class="text-lg font-semibold mb-2 flex items-center"><span class="text-2xl mr-3">✓</span>Genel Bakım Profili</h3>
+                        <p>Servis geçmişi incelendiğinde, periyodik bakımların (yağ, filtre, buji vb.) genel olarak düzenli ve yetkili serviste yapıldığı görülmektedir.</p>
+                    </div>
+                    <div class="bg-red-50 border-l-4 border-red-500 text-red-800 p-6 rounded-lg shadow-sm">
+                        <h3 class="text-lg font-semibold mb-2 flex items-center"><span class="text-2xl mr-3">✗</span>Kritik Tespit</h3>
+                        <p>~200.000 KM'ye yaklaşan araçta, arıza eğilimi bilinen su pompasının (devirdaim) önleyici olarak değiştirildiğine dair bir servis kaydı bulunmamaktadır.</p>
+                    </div>
+                </div>
+
+                <div class="bg-white p-8 rounded-xl shadow-lg">
+                    <h2 class="text-2xl font-bold mb-6 text-center">Teknik Mütalaa: Motor Arızası Değerlendirmesi</h2>
+                    <div class="text-gray-700 space-y-4">
+                        <p><strong class="text-gray-900">Giriş:</strong> 34 SN 1062 plakalı aracın 213.965 KM'de yaşadığı motor arızası ve buna bağlı olarak 2. silindirde tespit edilen kompresyon kaybı, mevcut servis kayıtları ışığında değerlendirilmiştir. Analizimiz, arızanın olası temel nedenini ortaya koymaktadır.</p>
+                        
+                        <p><strong class="text-gray-900">Olası Arıza Senaryosu:</strong> Servis kayıtlarında, aracın su pompasının (devirdaim) bugüne kadar hiç değiştirilmediği görülmektedir. BMW B48 kodlu motorlarda kullanılan su pompaları, plastik bileşenler içermesi nedeniyle zamanla aşınıp performans kaybedebilir veya tamamen arızalanabilir. Yaşanan arızanın, aşağıdaki adımlarla gerçekleşmiş olması kuvvetle muhtemeldir:</p>
+                        <ol class="list-decimal list-inside space-y-2 pl-4 border-l-2 border-blue-200 py-2">
+                            <li><strong>Su Pompası Arızası:</strong> Zamanla etkinliğini yitiren su pompası, motor soğutma sıvısını sistem içinde verimli bir şekilde dolaştıramamıştır.</li>
+                            <li><strong>Lokal veya Genel Hararet:</strong> Soğutma sistemindeki bu zafiyet, motorun -sürücü tarafından her zaman fark edilemeyebilecek- aşırı ısınmasına (hararet) neden olmuştur.</li>
+                            <li><strong>Silindir Kapak Contası Hasarı:</strong> Yüksek ısı, motorun en hassas parçalarından biri olan silindir kapak contasına zarar vermiştir.</li>
+                            <li><strong>Kompresyon Kaybı:</strong> Hasar gören conta, 2. silindirin yanma odası ile soğutma suyu kanalları arasında sızdırmazlığı sağlayamamış, bu da basınç (kompresyon) kaybına yol açmıştır.</li>
+                        </ol>
+                        
+                        <p><strong class="text-gray-900">Su Pompası Değişimi Zorunlu mu?:</strong> BMW, su pompası için kilometreye bağlı "zorunlu" bir değişim periyodu belirtmemektedir. Ancak bu parça, kronik bir arıza kaynağı olarak bilindiği için yetkili servisler ve uzmanlar tarafından genellikle 150.000 - 200.000 KM aralığında "önleyici bakım" kapsamında değiştirilmesi şiddetle tavsiye edilir. Değişimin yapılmamış olması bir kullanıcı kusuru olmasa da, öngörülebilir bir riskin gerçekleşmesine zemin hazırlamıştır.</p>
+                        
+                        <p><strong class="text-gray-900">Sonuç:</strong> Mevcut motor arızasının temel nedeninin, zamanında değiştirilmemiş su pompasından kaynaklanan soğutma sistemi yetersizliği ve bunun tetiklediği hararet kaynaklı silindir kapak conta hasarı olduğu değerlendirilmektedir. Problemin net teşhisi ve hasar boyutunun tespiti için motorun fiziken açılarak detaylı incelenmesi gerekmektedir.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="tab-timeline" class="tab-content hidden">
+                <div id="timeline-container" class="relative pl-8 md:pl-12">
+                </div>
+            </section>
+
+            <section id="tab-analysis" class="tab-content hidden">
+                <p class="text-center text-gray-600 mb-8">Bu bölümde, aracınızın servis geçmişine ait veriler görselleştirilmiştir. Grafiklere göz atarak aracın kullanım alışkanlıklarını, yapılan bakım türlerinin dağılımını ve kritik parçaların durumunu inceleyebilirsiniz.</p>
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <h3 class="text-xl font-bold mb-4 text-center">Kilometre Artış Grafiği</h3>
+                        <div class="chart-container">
+                            <canvas id="kmChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <h3 class="text-xl font-bold mb-4 text-center">Servis Türü Dağılımı</h3>
+                        <div class="chart-container">
+                            <canvas id="serviceTypeChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-lg mt-8">
+                     <h3 class="text-xl font-bold mb-6 text-center">Önleyici Bakım Kontrol Listesi</h3>
+                     <div class="max-w-md mx-auto space-y-4">
+                        <div class="flex items-center justify-between p-4 bg-green-50 rounded-lg">
+                            <span class="font-semibold text-green-800">Periyodik Bakımlar (Yağ, Filtreler)</span>
+                            <span class="text-2xl text-green-600">✓</span>
+                        </div>
+                        <div class="flex items-center justify-between p-4 bg-green-50 rounded-lg">
+                            <span class="font-semibold text-green-800">Bujiler</span>
+                            <span class="text-2xl text-green-600">✓</span>
+                        </div>
+                         <div class="flex items-center justify-between p-4 bg-green-50 rounded-lg">
+                            <span class="font-semibold text-green-800">Fren Sistemi (Balata, Disk, Hidrolik)</span>
+                            <span class="text-2xl text-green-600">✓</span>
+                        </div>
+                        <div class="flex items-center justify-between p-4 bg-red-50 rounded-lg">
+                            <span class="font-semibold text-red-800">Motor Su Pompası (Devirdaim)</span>
+                            <span class="text-2xl text-red-600">✗</span>
+                        </div>
+                     </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const serviceData = [
+                { date: "24.09.2025", km: 213965, type: "Mekanik Onarım", advisor: "ALTAN ŞAHİN", dealer: "Borusan Oto Samandıra", details: ["MOTOR TAHRİK İKAZI VERMİŞ, KONTROL (ÇEKİCİ İLE GELDİ)", "Araç testi yürütüldü", "Akü şarj edildi", "Motor arıza tespiti yapıldı", "Silindir kapağı sökülüp takıldı", "Yakıt sistemi kontrolü yapıldı"]},
+                { date: "10.05.2025", km: 206177, type: "Periyodik Bakım", advisor: "KADİR ARSLAN", dealer: "Borusan Oto Samandıra", details: ["Motor yağı servisi", "Mikro filtre servisi", "Hava filtresi elemanı", "Bujiler değiştirildi"]},
+                { date: "03.01.2025", km: 194142, type: "Mekanik Onarım", advisor: "KADİR ARSLAN", dealer: "Borusan Oto Samandıra", details: ["Fren hidroliği servisi"]},
+                { date: "22.08.2024", km: 181879, type: "Periyodik Bakım", advisor: "KADİR ARSLAN", dealer: "Borusan Oto Samandıra", details: ["Motor yağı servisi", "Mikro filtre servisi", "Hava filtresi elemanı", "Bujiler değiştirildi", "Ön fren balataları/diskleri değiştirildi", "Arka fren balataları/diskleri değiştirildi"]},
+                { date: "01.03.2024", km: 169458, type: "Periyodik Bakım", advisor: "KADİR ARSLAN", dealer: "Borusan Oto Samandıra", details: ["Motor yağı servisi", "Mikro filtre servisi"]},
+                { date: "19.10.2023", km: 159812, type: "Mekanik Onarım", advisor: "KADİR ARSLAN", dealer: "Borusan Oto Samandıra", details: ["Akü yenilendi"]},
+                { date: "18.07.2023", km: 154433, type: "Periyodik Bakım", advisor: "ONUR ÖZÇELİK", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi", "Hava filtresi elemanı", "Bujiler değiştirildi", "Fren hidroliği servisi"]},
+                { date: "16.01.2023", km: 142104, type: "Periyodik Bakım", advisor: "ONUR ÖZÇELİK", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi", "Ön fren balataları/diskleri değiştirildi", "Arka fren balataları/diskleri değiştirildi"]},
+                { date: "23.05.2022", km: 125341, type: "Periyodik Bakım", advisor: "ONUR ÖZÇELİK", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi", "Hava filtresi elemanı", "Bujiler değiştirildi"]},
+                { date: "11.10.2021", km: 108848, type: "Periyodik Bakım", advisor: "ONUR ÖZÇELİK", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi", "Fren hidroliği servisi", "Arka fren balataları/diskleri değiştirildi"]},
+                { date: "25.03.2021", km: 92437, type: "Periyodik Bakım", advisor: "ONUR ÖZÇELİK", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi", "Hava filtresi elemanı", "Bujiler değiştirildi", "Ön fren balataları değiştirildi"]},
+                { date: "23.09.2020", km: 76657, type: "Periyodik Bakım", advisor: "ONUR ÖZÇELİK", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi"]},
+                { date: "19.02.2020", km: 60453, type: "Periyodik Bakım", advisor: "ONUR ÖZÇELİK", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi", "Hava filtresi elemanı", "Bujiler değiştirildi", "Fren hidroliği servisi"]},
+                { date: "27.08.2019", km: 45290, type: "Periyodik Bakım", advisor: "ONUR ÖZÇELİK", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi", "Arka fren balataları değiştirildi"]},
+                { date: "08.02.2019", km: 30048, type: "Periyodik Bakım", advisor: "ONUR ÖZÇELİK", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi", "Fren hidroliği servisi"]},
+                { date: "25.07.2018", km: 14949, type: "Periyodik Bakım", advisor: "VOLKAN BOZKURT", dealer: "Borusan Oto Avcılar", details: ["Motor yağı servisi", "Mikro filtre servisi"]},
+                { date: "08.05.2018", km: 4522, type: "Garanti", advisor: "VOLKAN BOZKURT", dealer: "Borusan Oto Avcılar", details: ["Araç testi yürütüldü", "Gösterge panelindeki sağ dekor kaplaması söküldü izole edildi"]},
+                { date: "04.05.2018", km: 4502, type: "Hasar Onarım", advisor: "VOLKAN BOZKURT", dealer: "Borusan Oto Avcılar", details: ["AXA faturalı hasar onarımı"]}
+            ].sort((a, b) => b.km - a.km);
+
+            const tabs = document.querySelectorAll('.nav-link');
+            const tabContents = document.querySelectorAll('.tab-content');
+            
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    tabs.forEach(item => item.classList.remove('active'));
+                    tab.classList.add('active');
+                    
+                    const target = document.getElementById(tab.dataset.tab);
+                    tabContents.forEach(content => content.classList.add('hidden'));
+                    target.classList.remove('hidden');
+
+                    if (tab.dataset.tab === 'tab-analysis' && !window.chartsInitialized) {
+                        initCharts();
+                    }
+                });
+            });
+
+            function createTimeline() {
+                const container = document.getElementById('timeline-container');
+                let timelineHTML = '';
+                serviceData.forEach(item => {
+                    timelineHTML += `
+                        <div class="timeline-item relative pb-8">
+                            <div class="timeline-dot"></div>
+                            <div class="timeline-item-content bg-white p-6 rounded-lg shadow-md hover:shadow-xl cursor-pointer transition-all duration-300 ml-8">
+                                <p class="text-sm text-gray-500">${item.date}</p>
+                                <h4 class="font-bold text-lg text-blue-600">${item.km.toLocaleString('tr-TR')} KM</h4>
+                                <p class="font-semibold text-gray-800">${item.type}</p>
+                                <div class="timeline-details hidden mt-4 pt-4 border-t border-gray-200">
+                                    <p class="text-sm"><span class="font-semibold">Danışman:</span> ${item.advisor}</p>
+                                    <p class="text-sm mb-2"><span class="font-semibold">Servis:</span> ${item.dealer}</p>
+                                    <ul class="list-disc list-inside text-sm text-gray-600 space-y-1">
+                                        ${item.details.map(d => `<li>${d}</li>`).join('')}
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                });
+                container.innerHTML = timelineHTML;
+
+                container.querySelectorAll('.timeline-item-content').forEach(item => {
+                    item.addEventListener('click', () => {
+                        const details = item.querySelector('.timeline-details');
+                        details.classList.toggle('hidden');
+                    });
+                });
+            }
+
+            function initCharts() {
+                window.chartsInitialized = true;
+                const chartData = [...serviceData].reverse();
+
+                const kmCtx = document.getElementById('kmChart').getContext('2d');
+                new Chart(kmCtx, {
+                    type: 'line',
+                    data: {
+                        labels: chartData.map(d => d.date.split('.')[2]),
+                        datasets: [{
+                            label: 'Kilometre',
+                            data: chartData.map(d => d.km),
+                            borderColor: '#3b82f6',
+                            backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                            fill: true,
+                            tension: 0.2
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: { y: { beginAtZero: true } }
+                    }
+                });
+
+                const serviceTypes = serviceData.reduce((acc, curr) => {
+                    acc[curr.type] = (acc[curr.type] || 0) + 1;
+                    return acc;
+                }, {});
+
+                const serviceTypeCtx = document.getElementById('serviceTypeChart').getContext('2d');
+                new Chart(serviceTypeCtx, {
+                    type: 'doughnut',
+                    data: {
+                        labels: Object.keys(serviceTypes),
+                        datasets: [{
+                            label: 'Servis Sayısı',
+                            data: Object.values(serviceTypes),
+                            backgroundColor: ['#3b82f6', '#10b981', '#ef4444', '#f97316', '#8b5cf6'],
+                            hoverOffset: 4
+                        }]
+                    },
+                     options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                    }
+                });
+            }
+            
+            createTimeline();
+        });
+    </script>
+</body>
+</html>
